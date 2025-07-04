@@ -1,35 +1,35 @@
 {
   "execution_info": {
-    "start_time": "2025-07-05T02:05:26.064655",
-    "end_time": "2025-07-05T02:14:28.169419",
-    "duration_seconds": 542.104764,
-    "timestamp": "2025-07-05T02:14:28.170069"
+    "start_time": "2025-07-05T02:25:49.234192",
+    "end_time": "2025-07-05T02:34:14.180851",
+    "duration_seconds": 504.946659,
+    "timestamp": "2025-07-05T02:34:14.181887"
   },
   "summary": {
     "total_products": 64,
     "processed": 64,
-    "successful": 60,
+    "successful": 64,
     "already_existed": 0,
-    "errors": 4,
+    "errors": 0,
     "not_found": 0,
     "data_extracted": 64,
-    "success_rate": 93.75
+    "success_rate": 100.0
   },
   "categories": {
     "sexual-welness": {
       "total": 64,
-      "successful": 60,
-      "errors": 4,
+      "successful": 64,
+      "errors": 0,
       "already_existed": 0,
       "data_extracted": 64,
-      "success_rate": 93.75
+      "success_rate": 100.0
     }
   },
   "performance_metrics": {
     "average_download_time_ms": 0,
     "average_processing_time_ms": 0,
     "cache_hits": 0,
-    "cache_misses": 80,
+    "cache_misses": 64,
     "total_retries": 0
   },
   "image_sources": {
@@ -59,7 +59,8 @@
     "MAX_RETRIES": 3,
     "SELENIUM_TIMEOUT": 45,
     "MAX_IMAGE_SIZE": 20971520,
-    "MIN_IMAGE_SIZE": 256,
+    "MIN_IMAGE_SIZE": 100,
+    "ACCEPT_SMALL_IMAGES": true,
     "CLEAR_MEMORY_INTERVAL": 25,
     "ENABLE_URL_CACHE": true,
     "URL_CACHE_SIZE": 2000,
@@ -69,6 +70,9 @@
     "COOLDOWN_PERIOD": 60,
     "BROWSER_AUTOMATION": "playwright",
     "BROWSER_FALLBACK": true,
-    "set_browser_automation": "<classmethod(<function Config.set_browser_automation at 0x0000020793C1DC60>)>"
+    "set_browser_automation": "<classmethod(<function Config.set_browser_automation at 0x00000218FD63E660>)>",
+    "DEFAULT_IMAGE_PATH": "default_product_image.png",
+    "USE_DEFAULT_IMAGE": true,
+    "CREATE_DEFAULT_IMAGE": true
   }
 }

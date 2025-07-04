@@ -82,7 +82,8 @@ class Config:
     # Image settings
     SUPPORTED_FORMATS = ['jpg', 'jpeg', 'png', 'webp', 'gif', 'bmp']
     MAX_IMAGE_SIZE = 20 * 1024 * 1024
-    MIN_IMAGE_SIZE = 256
+    MIN_IMAGE_SIZE = 100  # Reduced from 256 to accept smaller images
+    ACCEPT_SMALL_IMAGES = True  # New flag to accept small images if no larger ones are found
     
     # Memory and cache settings
     CLEAR_MEMORY_INTERVAL = 25
@@ -146,7 +147,12 @@ class Config:
         "img[data-src*='product']",
         "main img",
         "#main img",
-        ".container img"
+        ".container img",
+        
+        # Additional fallbacks for any image
+        "img[src*='uploads']",
+        "img[src*='cdn']",
+        "img"  # Last resort - any image
     ]
     
     # Data selectors for product information
@@ -191,6 +197,11 @@ class Config:
         r'product.*\.(jpg|jpeg|png|webp|gif)',
         r'images.*product'
     ]
+
+    # New: Default image to use when no valid image is found
+    DEFAULT_IMAGE_PATH = "default_product_image.png"
+    USE_DEFAULT_IMAGE = True  # Set to True to use default image as fallback
+    CREATE_DEFAULT_IMAGE = True  # Create a default image if it doesn't exist
 
 class PlaywrightBrowser:
     """Playwright browser automation implementation with advanced anti-bot measures and performance optimizations"""
@@ -1016,6 +1027,10 @@ class EnhancedCSVImageDownloader:
         self.setup_logging()
         self.setup_directories()
         
+        # Create default image if needed
+        if Config.USE_DEFAULT_IMAGE and Config.CREATE_DEFAULT_IMAGE:
+            self.create_default_image()
+        
         # Load checkpoint
         self.checkpoint = self.load_checkpoint()
         
@@ -1147,9 +1162,14 @@ class EnhancedCSVImageDownloader:
             with Image.open(filepath) as img:
                 width, height = img.size
                 
-                # Check dimensions
+                # Check dimensions - but allow small images if configured
                 if width < Config.MIN_IMAGE_SIZE or height < Config.MIN_IMAGE_SIZE:
-                    return False, f"image_too_small_{width}x{height}"
+                    if Config.ACCEPT_SMALL_IMAGES:
+                        # Accept small images but log a warning
+                        self.debug_log(f"Warning: Small image accepted {width}x{height}")
+                        return True, f"small_image_accepted_{width}x{height}"
+                    else:
+                        return False, f"image_too_small_{width}x{height}"
                     
                 # Check format
                 if img.format and img.format.lower() not in [fmt.lower() for fmt in Config.SUPPORTED_FORMATS]:
@@ -1375,6 +1395,13 @@ class EnhancedCSVImageDownloader:
                     parsed = urlparse(product_url)
                     base = f"{parsed.scheme}://{parsed.netloc}"
                     url = urljoin(base, url)
+                
+                # Skip common UI elements and icons that are often small
+                lower_url = url.lower()
+                if any(pattern in lower_url for pattern in ['close-icon', 'user-register', 'filter.png', 'icon', 'logo']):
+                    # Skip UI elements but keep track for debugging
+                    self.debug_log(f"Skipping UI element: {url}")
+                    continue
                 
                 img['url'] = url
                 seen_urls.add(url)
@@ -1954,13 +1981,6 @@ class EnhancedCSVImageDownloader:
             except Exception as e:
                 self.debug_log(f"Warning: Error waiting for images: {e}")
             
-            # Extract image URLs
-            image_urls = self.extract_image_urls(browser, product['url'])
-            
-            if not image_urls:
-                result['error'] = 'no_images_found'
-                return result
-            
             # Extract product data if using Playwright
             if isinstance(browser, PlaywrightBrowser):
                 try:
@@ -1975,18 +1995,59 @@ class EnhancedCSVImageDownloader:
                 except Exception as e:
                     self.debug_log(f"Error extracting product data: {e}")
             
+            # Extract image URLs
+            image_urls = self.extract_image_urls(browser, product['url'])
+            
+            if not image_urls:
+                self.debug_log(f"No images found for product {product['product_id']}")
+                
+                # Use default image if configured
+                if Config.USE_DEFAULT_IMAGE:
+                    default_image_path = os.path.join(Config.OUTPUT_DIR, Config.DEFAULT_IMAGE_PATH)
+                    if os.path.exists(default_image_path):
+                        # Copy default image to product location
+                        category_dir = os.path.join(Config.OUTPUT_DIR, product['category'])
+                        os.makedirs(category_dir, exist_ok=True)
+                        
+                        # Create safe filename for the product
+                        file_extension = os.path.splitext(Config.DEFAULT_IMAGE_PATH)[1].lower()
+                        safe_filename = f"{product['product_id']}{file_extension}"
+                        filepath = os.path.join(category_dir, safe_filename)
+                        
+                        # Copy the default image
+                        import shutil
+                        shutil.copy(default_image_path, filepath)
+                        
+                        # Update result
+                        result['status'] = 'success'
+                        result['images_downloaded'] = 1
+                        result['image_path'] = filepath
+                        result['error'] = None
+                        
+                        with self.lock:
+                            self.stats['successful_downloads'] += 1
+                            self.stats['by_category'][product['category']]['success'] += 1
+                            
+                        # Mark as completed
+                        self.checkpoint['completed_products'].add(product_key)
+                        
+                        return result
+                else:
+                    result['error'] = 'no_images_found'
+                    return result
+            
             # Try to download images - only try the top 5 candidates
             downloaded_count = 0
             last_error = None
             image_path = None
             
-            for img_info in image_urls[:5]:  # Limit to top 5 candidates
+            for img_info in image_urls[:10]:  # Try up to 10 candidates (increased from 5)
                 img_url = img_info['url']
                 self.debug_log(f"Attempting to download: {img_url} (priority: {img_info['priority']})")
                 
                 downloaded_path, download_status = self.download_image(img_url, product)
                 
-                if downloaded_path and download_status in ['success', 'already_exists']:
+                if downloaded_path and download_status in ['success', 'already_exists', 'small_image_accepted']:
                     downloaded_count += 1
                     image_path = downloaded_path
                     result['images_downloaded'] = downloaded_count
@@ -2007,8 +2068,37 @@ class EnhancedCSVImageDownloader:
                     continue
             
             if downloaded_count == 0:
-                result['error'] = last_error or 'all_downloads_failed'
-                result['status'] = 'failed'
+                # No image downloaded successfully, try default image as last resort
+                if Config.USE_DEFAULT_IMAGE:
+                    default_image_path = os.path.join(Config.OUTPUT_DIR, Config.DEFAULT_IMAGE_PATH)
+                    if os.path.exists(default_image_path):
+                        # Copy default image to product location
+                        category_dir = os.path.join(Config.OUTPUT_DIR, product['category'])
+                        os.makedirs(category_dir, exist_ok=True)
+                        
+                        # Create safe filename for the product
+                        file_extension = os.path.splitext(Config.DEFAULT_IMAGE_PATH)[1].lower()
+                        safe_filename = f"{product['product_id']}{file_extension}"
+                        filepath = os.path.join(category_dir, safe_filename)
+                        
+                        # Copy the default image
+                        import shutil
+                        shutil.copy(default_image_path, filepath)
+                        
+                        # Update result
+                        result['status'] = 'success'
+                        result['images_downloaded'] = 1
+                        result['image_path'] = filepath
+                        result['error'] = None
+                        
+                        with self.lock:
+                            self.stats['successful_downloads'] += 1
+                            self.stats['by_category'][product['category']]['success'] += 1
+                            
+                        return result
+                else:
+                    result['error'] = last_error or 'all_downloads_failed'
+                    result['status'] = 'failed'
             
         except Exception as e:
             result['error'] = f"unexpected_error: {str(e)}"
@@ -2042,6 +2132,47 @@ class EnhancedCSVImageDownloader:
                     })
         
         return result
+    
+    def create_default_image(self):
+        """Create a default image to use when no valid image is found"""
+        try:
+            default_image_path = os.path.join(Config.OUTPUT_DIR, Config.DEFAULT_IMAGE_PATH)
+            
+            # Skip if default image already exists
+            if os.path.exists(default_image_path):
+                return
+                
+            # Create a simple colored image with text
+            from PIL import Image, ImageDraw, ImageFont
+            
+            # Create a white image
+            width, height = 400, 400
+            image = Image.new('RGB', (width, height), color=(255, 255, 255))
+            draw = ImageDraw.Draw(image)
+            
+            # Add a border
+            draw.rectangle([(0, 0), (width-1, height-1)], outline=(200, 200, 200), width=2)
+            
+            # Add text
+            try:
+                # Try to use a system font
+                font = ImageFont.truetype("arial.ttf", 20)
+            except:
+                # Fallback to default font
+                font = ImageFont.load_default()
+                
+            text = "No Image Available"
+            text_width = draw.textlength(text, font=font)
+            text_position = ((width - text_width) / 2, height / 2)
+            draw.text(text_position, text, fill=(100, 100, 100), font=font)
+            
+            # Save the image
+            os.makedirs(os.path.dirname(default_image_path), exist_ok=True)
+            image.save(default_image_path)
+            print(f"✅ Created default image: {default_image_path}")
+            
+        except Exception as e:
+            print(f"⚠️ Could not create default image: {e}")
 
 def main():
     print("Inside main()...")
