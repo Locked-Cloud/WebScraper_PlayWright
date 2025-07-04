@@ -1,0 +1,74 @@
+{
+  "execution_info": {
+    "start_time": "2025-07-05T02:05:26.064655",
+    "end_time": "2025-07-05T02:14:28.169419",
+    "duration_seconds": 542.104764,
+    "timestamp": "2025-07-05T02:14:28.170069"
+  },
+  "summary": {
+    "total_products": 64,
+    "processed": 64,
+    "successful": 60,
+    "already_existed": 0,
+    "errors": 4,
+    "not_found": 0,
+    "data_extracted": 64,
+    "success_rate": 93.75
+  },
+  "categories": {
+    "sexual-welness": {
+      "total": 64,
+      "successful": 60,
+      "errors": 4,
+      "already_existed": 0,
+      "data_extracted": 64,
+      "success_rate": 93.75
+    }
+  },
+  "performance_metrics": {
+    "average_download_time_ms": 0,
+    "average_processing_time_ms": 0,
+    "cache_hits": 0,
+    "cache_misses": 80,
+    "total_retries": 0
+  },
+  "image_sources": {
+    "primary_selector": 0,
+    "fallback_selector": 0,
+    "lazy_loaded": 0,
+    "url_extraction": 0
+  },
+  "configuration": {
+    "CSV_FILE": "all_products_combined.csv",
+    "OUTPUT_DIR": "product_images",
+    "LOGS_DIR": "download_logs",
+    "CHECKPOINT_FILE": "csv_download_checkpoint.json",
+    "FAILED_PRODUCTS_FILE": "failed_products.json",
+    "DEBUG_LOG_FILE": "debug_log.txt",
+    "MAX_WORKERS": 5,
+    "BATCH_SIZE": 10,
+    "PAGE_LOAD_DELAY": [
+      4,
+      8
+    ],
+    "REQUEST_TIMEOUT": 45,
+    "RETRY_DELAY": [
+      5,
+      10
+    ],
+    "MAX_RETRIES": 3,
+    "SELENIUM_TIMEOUT": 45,
+    "MAX_IMAGE_SIZE": 20971520,
+    "MIN_IMAGE_SIZE": 256,
+    "CLEAR_MEMORY_INTERVAL": 25,
+    "ENABLE_URL_CACHE": true,
+    "URL_CACHE_SIZE": 2000,
+    "ADAPTIVE_RETRY": true,
+    "MAX_RETRY_MULTIPLIER": 1.5,
+    "MAX_ERRORS_BEFORE_COOLDOWN": 3,
+    "COOLDOWN_PERIOD": 60,
+    "BROWSER_AUTOMATION": "playwright",
+    "BROWSER_FALLBACK": true,
+    "set_browser_automation": "<classmethod(<function Config.set_browser_automation at 0x0000020793C1DC60>)>"
+  }
+}

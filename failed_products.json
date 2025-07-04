@@ -1,0 +1,42 @@
+[
+  {
+    "product": {
+      "product_id": "sexual-welness_0007",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/derilgy-60mg-6tab-a7TfG",
+      "category": "sexual-welness",
+      "extracted_at": "2025-07-04T00:10:14.048118"
+    },
+    "error": "invalid_image: image_too_small_48x49",
+    "timestamp": "2025-07-05T02:06:19.607516"
+  },
+  {
+    "product": {
+      "product_id": "sexual-welness_0046",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/silden-50mg-4tab-pbod",
+      "category": "sexual-welness",
+      "extracted_at": "2025-07-04T00:10:14.048118"
+    },
+    "error": "invalid_image: image_too_small_48x49",
+    "timestamp": "2025-07-05T02:12:15.188480"
+  },
+  {
+    "product": {
+      "product_id": "sexual-welness_0050",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/simplex-black-condom-with-banana-3pcs-0gbo",
+      "category": "sexual-welness",
+      "extracted_at": "2025-07-04T00:10:14.048118"
+    },
+    "error": "invalid_image: image_too_small_48x49",
+    "timestamp": "2025-07-05T02:12:16.366494"
+  },
+  {
+    "product": {
+      "product_id": "sexual-welness_0063",
+      "url": "https://chefaa.com:443/eg-ar/nowProduct/varde-20mg-4tab-kmuz",
+      "category": "sexual-welness",
+      "extracted_at": "2025-07-04T00:10:14.048118"
+    },
+    "error": "invalid_image: image_too_small_48x49",
+    "timestamp": "2025-07-05T02:14:03.666193"
+  }
+]
