@@ -1,0 +1,1000 @@
+2025-06-19 01:24:01,485 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-06-19 01:24:01,485 - INFO - ================================================================================
+2025-06-19 01:24:01,485 - INFO - Processing 10 categories
+2025-06-19 01:24:01,485 - INFO - ================================================================================
+2025-06-19 01:24:01,486 - INFO - [1/10] Processing: medications
+2025-06-19 01:24:01,486 - INFO - Starting category: medications
+2025-06-19 01:24:01,486 - INFO - Detecting pages for category: medications
+2025-06-19 01:24:05,664 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:25:08,156 - INFO - Found 128 pages using method 1
+2025-06-19 01:25:08,296 - INFO - Processing 128 pages for medications
+2025-06-19 01:25:08,296 - INFO - medications - Page 1/128
+2025-06-19 01:25:11,382 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:25:30,296 - ERROR - Error extracting from https://chefaa.com:443/eg-ar/now/category/medications page 1: Message: 
+
+2025-06-19 01:25:30,435 - WARNING - Retrying medications page 1 in 19.9s (attempt 2)
+2025-06-19 01:25:53,271 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:26:15,077 - ERROR - Error extracting from https://chefaa.com:443/eg-ar/now/category/medications page 1: Message: 
+
+2025-06-19 01:26:15,222 - WARNING - Retrying medications page 1 in 14.1s (attempt 3)
+2025-06-19 01:26:32,259 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:27:14,726 - ERROR - Error extracting from https://chefaa.com:443/eg-ar/now/category/medications page 1: Message: 
+
+2025-06-19 01:27:14,872 - ERROR - Failed medications page 1 after 3 attempts
+2025-06-19 01:27:14,873 - INFO - medications - Page 2/128
+2025-06-19 01:27:18,008 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:27:27,700 - INFO - Scraping interrupted by user
+2025-06-19 01:29:49,153 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-06-19 01:29:49,153 - INFO - ================================================================================
+2025-06-19 01:29:49,153 - INFO - Processing 10 categories
+2025-06-19 01:29:49,153 - INFO - ================================================================================
+2025-06-19 01:29:49,153 - INFO - [1/10] Processing: medications
+2025-06-19 01:29:49,154 - INFO - Starting category: medications
+2025-06-19 01:29:49,154 - INFO - Detecting pages for category: medications
+2025-06-19 01:29:52,285 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:31:04,519 - INFO - Found 128 pages using method 1
+2025-06-19 01:31:04,657 - INFO - Processing 128 pages for medications
+2025-06-19 01:31:04,657 - INFO - medications - Page 1/128
+2025-06-19 01:31:07,754 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:31:08,517 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/medications?sort=name&order=desc&limit=28&page=1
+2025-06-19 01:31:21,558 - INFO - Found 20 product items on page 1
+2025-06-19 01:31:21,705 - INFO - Extracted 20 unique product links from page 1
+2025-06-19 01:31:21,843 - INFO - medications - Page 1: 20 products
+2025-06-19 01:31:25,580 - INFO - medications - Page 2/128
+2025-06-19 01:31:28,441 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:31:29,191 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/medications?sort=name&order=desc&limit=28&page=2
+2025-06-19 01:31:40,406 - INFO - Found 20 product items on page 2
+2025-06-19 01:31:40,541 - INFO - Extracted 20 unique product links from page 2
+2025-06-19 01:31:40,674 - INFO - medications - Page 2: 20 products
+2025-06-19 01:31:44,050 - INFO - medications - Page 3/128
+2025-06-19 01:31:46,966 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:31:47,718 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/medications?sort=name&order=desc&limit=28&page=3
+2025-06-19 01:31:49,682 - INFO - Scraping interrupted by user
+2025-06-19 01:32:38,431 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-06-19 01:32:38,431 - INFO - ================================================================================
+2025-06-19 01:32:38,431 - INFO - Processing 1 categories
+2025-06-19 01:32:38,432 - INFO - ================================================================================
+2025-06-19 01:32:38,432 - INFO - [1/1] Processing: mom-baby
+2025-06-19 01:32:38,432 - INFO - Starting category: mom-baby
+2025-06-19 01:32:38,432 - INFO - Detecting pages for category: mom-baby
+2025-06-19 01:32:41,335 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:33:53,326 - INFO - Found 25 pages using method 1
+2025-06-19 01:33:53,468 - INFO - Processing 25 pages for mom-baby
+2025-06-19 01:33:53,468 - INFO - mom-baby - Page 1/25
+2025-06-19 01:33:56,507 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:33:57,231 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=1
+2025-06-19 01:34:10,478 - INFO - Found 20 product items on page 1
+2025-06-19 01:34:10,607 - INFO - Extracted 20 unique product links from page 1
+2025-06-19 01:34:10,744 - INFO - mom-baby - Page 1: 20 products
+2025-06-19 01:34:14,556 - INFO - mom-baby - Page 2/25
+2025-06-19 01:34:17,425 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:34:18,171 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=2
+2025-06-19 01:34:30,843 - INFO - Found 20 product items on page 2
+2025-06-19 01:34:30,971 - INFO - Extracted 20 unique product links from page 2
+2025-06-19 01:34:31,110 - INFO - mom-baby - Page 2: 20 products
+2025-06-19 01:34:34,982 - INFO - mom-baby - Page 3/25
+2025-06-19 01:34:37,873 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:34:38,601 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=3
+2025-06-19 01:34:50,913 - INFO - Found 20 product items on page 3
+2025-06-19 01:34:51,060 - INFO - Extracted 20 unique product links from page 3
+2025-06-19 01:34:51,207 - INFO - mom-baby - Page 3: 20 products
+2025-06-19 01:34:53,948 - INFO - mom-baby - Page 4/25
+2025-06-19 01:34:58,654 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:34:59,417 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=4
+2025-06-19 01:35:12,250 - INFO - Found 20 product items on page 4
+2025-06-19 01:35:12,390 - INFO - Extracted 20 unique product links from page 4
+2025-06-19 01:35:12,527 - INFO - mom-baby - Page 4: 20 products
+2025-06-19 01:35:15,771 - INFO - mom-baby - Page 5/25
+2025-06-19 01:35:18,690 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:35:19,446 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=5
+2025-06-19 01:35:32,148 - INFO - Found 20 product items on page 5
+2025-06-19 01:35:32,281 - INFO - Extracted 20 unique product links from page 5
+2025-06-19 01:35:32,417 - INFO - mom-baby - Page 5: 20 products
+2025-06-19 01:35:32,417 - ERROR - Failed to save checkpoint: Object of type set is not JSON serializable
+2025-06-19 01:35:35,756 - INFO - mom-baby - Page 6/25
+2025-06-19 01:35:38,826 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:35:39,577 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=6
+2025-06-19 01:35:52,690 - INFO - Found 20 product items on page 6
+2025-06-19 01:35:52,822 - INFO - Extracted 20 unique product links from page 6
+2025-06-19 01:35:52,966 - INFO - mom-baby - Page 6: 20 products
+2025-06-19 01:35:56,753 - INFO - mom-baby - Page 7/25
+2025-06-19 01:35:59,705 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:36:00,443 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=7
+2025-06-19 01:36:12,759 - INFO - Found 20 product items on page 7
+2025-06-19 01:36:12,890 - INFO - Extracted 20 unique product links from page 7
+2025-06-19 01:36:13,025 - INFO - mom-baby - Page 7: 20 products
+2025-06-19 01:36:15,162 - INFO - mom-baby - Page 8/25
+2025-06-19 01:36:18,182 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:36:18,924 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=8
+2025-06-19 01:36:53,346 - INFO - Found 20 product items on page 8
+2025-06-19 01:36:53,472 - INFO - Extracted 20 unique product links from page 8
+2025-06-19 01:36:53,607 - INFO - mom-baby - Page 8: 20 products
+2025-06-19 01:36:56,371 - INFO - mom-baby - Page 9/25
+2025-06-19 01:36:59,232 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:37:00,476 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=9
+2025-06-19 01:37:12,674 - INFO - Found 20 product items on page 9
+2025-06-19 01:37:12,814 - INFO - Extracted 20 unique product links from page 9
+2025-06-19 01:37:12,949 - INFO - mom-baby - Page 9: 20 products
+2025-06-19 01:37:15,911 - INFO - mom-baby - Page 10/25
+2025-06-19 01:37:18,822 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:37:20,432 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=10
+2025-06-19 01:37:32,189 - INFO - Found 20 product items on page 10
+2025-06-19 01:37:32,326 - INFO - Extracted 20 unique product links from page 10
+2025-06-19 01:37:32,465 - INFO - mom-baby - Page 10: 20 products
+2025-06-19 01:37:32,465 - ERROR - Failed to save checkpoint: Object of type set is not JSON serializable
+2025-06-19 01:37:35,681 - INFO - mom-baby - Page 11/25
+2025-06-19 01:37:38,604 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:37:40,151 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=11
+2025-06-19 01:38:13,437 - INFO - Found 20 product items on page 11
+2025-06-19 01:38:13,564 - INFO - Extracted 20 unique product links from page 11
+2025-06-19 01:38:13,702 - INFO - mom-baby - Page 11: 20 products
+2025-06-19 01:38:16,177 - INFO - mom-baby - Page 12/25
+2025-06-19 01:38:19,083 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:38:19,830 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=12
+2025-06-19 01:38:32,175 - INFO - Found 20 product items on page 12
+2025-06-19 01:38:32,310 - INFO - Extracted 20 unique product links from page 12
+2025-06-19 01:38:32,444 - INFO - mom-baby - Page 12: 20 products
+2025-06-19 01:38:35,497 - INFO - mom-baby - Page 13/25
+2025-06-19 01:38:38,345 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:38:39,097 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=13
+2025-06-19 01:38:51,192 - INFO - Found 20 product items on page 13
+2025-06-19 01:38:51,340 - INFO - Extracted 20 unique product links from page 13
+2025-06-19 01:38:51,476 - INFO - mom-baby - Page 13: 20 products
+2025-06-19 01:38:55,136 - INFO - mom-baby - Page 14/25
+2025-06-19 01:38:58,052 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:38:58,800 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=14
+2025-06-19 01:39:10,949 - INFO - Found 20 product items on page 14
+2025-06-19 01:39:11,078 - INFO - Extracted 20 unique product links from page 14
+2025-06-19 01:39:11,211 - INFO - mom-baby - Page 14: 20 products
+2025-06-19 01:39:14,585 - INFO - mom-baby - Page 15/25
+2025-06-19 01:39:17,497 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:39:18,248 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=15
+2025-06-19 01:39:30,827 - INFO - Found 20 product items on page 15
+2025-06-19 01:39:30,959 - INFO - Extracted 20 unique product links from page 15
+2025-06-19 01:39:31,094 - INFO - mom-baby - Page 15: 20 products
+2025-06-19 01:39:31,095 - ERROR - Failed to save checkpoint: Object of type set is not JSON serializable
+2025-06-19 01:39:34,448 - INFO - mom-baby - Page 16/25
+2025-06-19 01:39:37,352 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:39:38,070 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=16
+2025-06-19 01:39:50,023 - INFO - Found 20 product items on page 16
+2025-06-19 01:39:50,152 - INFO - Extracted 20 unique product links from page 16
+2025-06-19 01:39:50,275 - INFO - mom-baby - Page 16: 20 products
+2025-06-19 01:39:53,467 - INFO - mom-baby - Page 17/25
+2025-06-19 01:39:57,101 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:39:57,844 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=17
+2025-06-19 01:40:09,941 - INFO - Found 20 product items on page 17
+2025-06-19 01:40:10,071 - INFO - Extracted 20 unique product links from page 17
+2025-06-19 01:40:10,204 - INFO - mom-baby - Page 17: 20 products
+2025-06-19 01:40:12,778 - INFO - mom-baby - Page 18/25
+2025-06-19 01:40:15,925 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:40:16,688 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=18
+2025-06-19 01:40:28,904 - INFO - Found 20 product items on page 18
+2025-06-19 01:40:29,055 - INFO - Extracted 20 unique product links from page 18
+2025-06-19 01:40:29,188 - INFO - mom-baby - Page 18: 20 products
+2025-06-19 01:40:32,759 - INFO - mom-baby - Page 19/25
+2025-06-19 01:40:36,314 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:40:37,065 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=19
+2025-06-19 01:40:49,035 - INFO - Found 20 product items on page 19
+2025-06-19 01:40:49,163 - INFO - Extracted 20 unique product links from page 19
+2025-06-19 01:40:49,296 - INFO - mom-baby - Page 19: 20 products
+2025-06-19 01:40:51,308 - INFO - mom-baby - Page 20/25
+2025-06-19 01:40:54,607 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:40:55,367 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=20
+2025-06-19 01:41:08,001 - INFO - Found 20 product items on page 20
+2025-06-19 01:41:08,127 - INFO - Extracted 20 unique product links from page 20
+2025-06-19 01:41:08,259 - INFO - mom-baby - Page 20: 20 products
+2025-06-19 01:41:08,260 - ERROR - Failed to save checkpoint: Object of type set is not JSON serializable
+2025-06-19 01:41:10,523 - INFO - mom-baby - Page 21/25
+2025-06-19 01:41:13,827 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:41:14,566 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=21
+2025-06-19 01:41:26,796 - INFO - Found 20 product items on page 21
+2025-06-19 01:41:26,924 - INFO - Extracted 20 unique product links from page 21
+2025-06-19 01:41:27,057 - INFO - mom-baby - Page 21: 20 products
+2025-06-19 01:41:29,129 - INFO - mom-baby - Page 22/25
+2025-06-19 01:41:31,986 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:41:32,729 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=22
+2025-06-19 01:41:46,996 - INFO - Found 20 product items on page 22
+2025-06-19 01:41:47,127 - INFO - Extracted 20 unique product links from page 22
+2025-06-19 01:41:47,261 - INFO - mom-baby - Page 22: 20 products
+2025-06-19 01:41:50,667 - INFO - mom-baby - Page 23/25
+2025-06-19 01:41:53,674 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:41:54,428 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=23
+2025-06-19 01:42:06,833 - INFO - Found 20 product items on page 23
+2025-06-19 01:42:06,969 - INFO - Extracted 20 unique product links from page 23
+2025-06-19 01:42:07,102 - INFO - mom-baby - Page 23: 20 products
+2025-06-19 01:42:10,921 - INFO - mom-baby - Page 24/25
+2025-06-19 01:42:13,946 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:42:14,681 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=24
+2025-06-19 01:42:28,250 - INFO - Found 20 product items on page 24
+2025-06-19 01:42:28,381 - INFO - Extracted 20 unique product links from page 24
+2025-06-19 01:42:28,515 - INFO - mom-baby - Page 24: 20 products
+2025-06-19 01:42:31,149 - INFO - mom-baby - Page 25/25
+2025-06-19 01:42:34,856 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 01:42:35,629 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/mom-baby?sort=name&order=desc&limit=28&page=25
+2025-06-19 01:42:48,263 - INFO - Found 10 product items on page 25
+2025-06-19 01:42:48,331 - INFO - Extracted 10 unique product links from page 25
+2025-06-19 01:42:48,467 - INFO - mom-baby - Page 25: 10 products
+2025-06-19 01:42:48,468 - ERROR - Failed to save checkpoint: Object of type set is not JSON serializable
+2025-06-19 01:42:50,497 - INFO - mom-baby completed: 391 products
+2025-06-19 01:42:50,497 - INFO - Progress: 1/1 categories | 391 total products
+2025-06-19 01:42:50,499 - ERROR - Failed to save checkpoint: Object of type set is not JSON serializable
+2025-06-19 01:42:50,502 - INFO - Results saved in: pharmacy_results_20250619_014250/
+2025-06-19 01:42:50,503 - INFO - Combined file: all_products_combined.csv
+2025-06-19 01:42:50,503 - INFO - Summary: scraping_summary.json
+2025-06-19 01:42:50,503 - INFO - Individual category files: 1 files
+2025-06-19 01:42:50,504 - INFO - 
+================================================================================
+2025-06-19 01:42:50,533 - INFO - ================================================================================
+2025-07-03 22:21:00,514 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 22:21:00,514 - INFO - ================================================================================
+2025-07-03 22:21:00,514 - INFO - Processing 1 categories
+2025-07-03 22:21:00,514 - INFO - ================================================================================
+2025-07-03 22:21:00,515 - INFO - [1/1] Processing: sexual-welness
+2025-07-03 22:21:00,515 - INFO - Starting category: sexual-welness
+2025-07-03 22:21:00,515 - INFO - Detecting pages for category: sexual-welness
+2025-07-03 22:21:04,054 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-03 22:21:07,040 - ERROR - Failed to create driver: Message: session not created: cannot connect to chrome at 127.0.0.1:63734
+from session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 137.0.7151.122
+Stacktrace:
+	GetHandleVerifier [0x0x7e4553+62419]
+	GetHandleVerifier [0x0x7e4594+62484]
+	(No symbol) [0x0x622133]
+	(No symbol) [0x0x65bfab]
+	(No symbol) [0x0x65afc9]
+	(No symbol) [0x0x65132f]
+	(No symbol) [0x0x651166]
+	(No symbol) [0x0x69af3e]
+	(No symbol) [0x0x69a82a]
+	(No symbol) [0x0x68f266]
+	(No symbol) [0x0x65e852]
+	(No symbol) [0x0x65f6f4]
+	GetHandleVerifier [0x0xa54833+2619059]
+	GetHandleVerifier [0x0xa4fc4a+2599626]
+	GetHandleVerifier [0x0x80b0fa+221050]
+	GetHandleVerifier [0x0x7fb378+156152]
+	GetHandleVerifier [0x0x801d2d+183213]
+	GetHandleVerifier [0x0x7ec438+94904]
+	GetHandleVerifier [0x0x7ec5c2+95298]
+	GetHandleVerifier [0x0x7d771a+9626]
+	BaseThreadInitThunk [0x0x75c17ba9+25]
+	RtlInitializeExceptionChain [0x0x7722c3ab+107]
+	RtlClearBits [0x0x7722c32f+191]
+
+2025-07-03 22:21:07,042 - ERROR - No pages found for sexual-welness
+2025-07-03 22:21:07,042 - INFO - Progress: 1/1 categories | 0 total products
+2025-07-03 22:21:07,043 - ERROR - Failed to save checkpoint: Object of type set is not JSON serializable
+2025-07-03 22:21:07,044 - INFO - Results saved in: pharmacy_results_20250703_222107/
+2025-07-03 22:21:07,044 - INFO - Combined file: all_products_combined.csv
+2025-07-03 22:21:07,044 - INFO - Summary: scraping_summary.json
+2025-07-03 22:21:07,044 - INFO - Individual category files: 1 files
+2025-07-03 22:21:07,044 - INFO - 
+================================================================================
+2025-07-03 22:21:07,058 - INFO - ================================================================================
+2025-07-03 22:23:03,301 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 22:23:03,301 - INFO - ================================================================================
+2025-07-03 22:23:03,301 - INFO - Processing 10 categories
+2025-07-03 22:23:03,301 - INFO - ================================================================================
+2025-07-03 22:23:03,301 - INFO - [1/10] Processing: medications
+2025-07-03 22:23:03,302 - INFO - Starting category: medications
+2025-07-03 22:23:03,302 - INFO - Detecting pages for category: medications
+2025-07-03 22:23:06,473 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-03 22:23:09,393 - ERROR - Failed to create driver: Message: session not created: cannot connect to chrome at 127.0.0.1:65355
+from session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 137.0.7151.122
+Stacktrace:
+	GetHandleVerifier [0x0x454553+62419]
+	GetHandleVerifier [0x0x454594+62484]
+	(No symbol) [0x0x292133]
+	(No symbol) [0x0x2cbfab]
+	(No symbol) [0x0x2cafc9]
+	(No symbol) [0x0x2c132f]
+	(No symbol) [0x0x2c1166]
+	(No symbol) [0x0x30af3e]
+	(No symbol) [0x0x30a82a]
+	(No symbol) [0x0x2ff266]
+	(No symbol) [0x0x2ce852]
+	(No symbol) [0x0x2cf6f4]
+	GetHandleVerifier [0x0x6c4833+2619059]
+	GetHandleVerifier [0x0x6bfc4a+2599626]
+	GetHandleVerifier [0x0x47b0fa+221050]
+	GetHandleVerifier [0x0x46b378+156152]
+	GetHandleVerifier [0x0x471d2d+183213]
+	GetHandleVerifier [0x0x45c438+94904]
+	GetHandleVerifier [0x0x45c5c2+95298]
+	GetHandleVerifier [0x0x44771a+9626]
+	BaseThreadInitThunk [0x0x75c17ba9+25]
+	RtlInitializeExceptionChain [0x0x7722c3ab+107]
+	RtlClearBits [0x0x7722c32f+191]
+
+2025-07-03 22:23:09,394 - ERROR - No pages found for medications
+2025-07-03 22:23:09,394 - INFO - Progress: 1/10 categories | 0 total products
+2025-07-03 22:23:09,395 - ERROR - Failed to save checkpoint: Object of type set is not JSON serializable
+2025-07-03 22:23:16,163 - INFO - [2/10] Processing: hair-care
+2025-07-03 22:23:16,163 - INFO - Starting category: hair-care
+2025-07-03 22:23:16,163 - INFO - Detecting pages for category: hair-care
+2025-07-03 22:23:19,572 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-03 22:23:22,457 - ERROR - Failed to create driver: Message: session not created: cannot connect to chrome at 127.0.0.1:65534
+from session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 137.0.7151.122
+Stacktrace:
+	GetHandleVerifier [0x0xfa4553+62419]
+	GetHandleVerifier [0x0xfa4594+62484]
+	(No symbol) [0x0xde2133]
+	(No symbol) [0x0xe1bfab]
+	(No symbol) [0x0xe1afc9]
+	(No symbol) [0x0xe1132f]
+	(No symbol) [0x0xe11166]
+	(No symbol) [0x0xe5af3e]
+	(No symbol) [0x0xe5a82a]
+	(No symbol) [0x0xe4f266]
+	(No symbol) [0x0xe1e852]
+	(No symbol) [0x0xe1f6f4]
+	GetHandleVerifier [0x0x1214833+2619059]
+	GetHandleVerifier [0x0x120fc4a+2599626]
+	GetHandleVerifier [0x0xfcb0fa+221050]
+	GetHandleVerifier [0x0xfbb378+156152]
+	GetHandleVerifier [0x0xfc1d2d+183213]
+	GetHandleVerifier [0x0xfac438+94904]
+	GetHandleVerifier [0x0xfac5c2+95298]
+	GetHandleVerifier [0x0xf9771a+9626]
+	BaseThreadInitThunk [0x0x75c17ba9+25]
+	RtlInitializeExceptionChain [0x0x7722c3ab+107]
+	RtlClearBits [0x0x7722c32f+191]
+
+2025-07-03 22:23:22,458 - ERROR - No pages found for hair-care
+2025-07-03 22:23:22,458 - INFO - Progress: 2/10 categories | 0 total products
+2025-07-03 22:23:22,458 - ERROR - Failed to save checkpoint: Object of type set is not JSON serializable
+2025-07-03 22:23:25,031 - INFO - Scraping interrupted by user
+2025-07-03 22:35:00,644 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 22:35:00,644 - INFO - ================================================================================
+2025-07-03 22:35:00,644 - INFO - Processing 1 categories
+2025-07-03 22:35:00,644 - ERROR - Failed to load checkpoint: Expecting value: line 11 column 23 (char 215)
+2025-07-03 22:35:00,644 - INFO - ================================================================================
+2025-07-03 22:35:00,644 - INFO - [1/1] Processing: pet-supplies
+2025-07-03 22:35:00,645 - INFO - Starting category: pet-supplies
+2025-07-03 22:35:00,645 - INFO - Detecting pages for category: pet-supplies
+2025-07-03 22:35:05,217 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-03 22:35:08,130 - ERROR - Failed to create driver: Message: session not created: cannot connect to chrome at 127.0.0.1:8639
+from session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 137.0.7151.122
+Stacktrace:
+	GetHandleVerifier [0x0x304553+62419]
+	GetHandleVerifier [0x0x304594+62484]
+	(No symbol) [0x0x142133]
+	(No symbol) [0x0x17bfab]
+	(No symbol) [0x0x17afc9]
+	(No symbol) [0x0x17132f]
+	(No symbol) [0x0x171166]
+	(No symbol) [0x0x1baf3e]
+	(No symbol) [0x0x1ba82a]
+	(No symbol) [0x0x1af266]
+	(No symbol) [0x0x17e852]
+	(No symbol) [0x0x17f6f4]
+	GetHandleVerifier [0x0x574833+2619059]
+	GetHandleVerifier [0x0x56fc4a+2599626]
+	GetHandleVerifier [0x0x32b0fa+221050]
+	GetHandleVerifier [0x0x31b378+156152]
+	GetHandleVerifier [0x0x321d2d+183213]
+	GetHandleVerifier [0x0x30c438+94904]
+	GetHandleVerifier [0x0x30c5c2+95298]
+	GetHandleVerifier [0x0x2f771a+9626]
+	BaseThreadInitThunk [0x0x75c17ba9+25]
+	RtlInitializeExceptionChain [0x0x7722c3ab+107]
+	RtlClearBits [0x0x7722c32f+191]
+	(No symbol) [0x0]
+
+2025-07-03 22:35:08,132 - ERROR - No pages found for pet-supplies
+2025-07-03 22:35:08,132 - INFO - Progress: 1/1 categories | 0 total products
+2025-07-03 22:35:08,133 - ERROR - Failed to save checkpoint: Object of type set is not JSON serializable
+2025-07-03 22:35:08,133 - INFO - Results saved in: pharmacy_results_20250703_223508/
+2025-07-03 22:35:08,134 - INFO - Combined file: all_products_combined.csv
+2025-07-03 22:35:08,134 - INFO - Summary: scraping_summary.json
+2025-07-03 22:35:08,134 - INFO - Individual category files: 1 files
+2025-07-03 22:35:08,134 - INFO - 
+================================================================================
+2025-07-03 22:35:08,156 - INFO - ================================================================================
+2025-07-03 22:38:48,492 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 22:38:48,492 - INFO - ================================================================================
+2025-07-03 22:38:48,492 - INFO - Processing 1 categories
+2025-07-03 22:38:48,492 - INFO - ================================================================================
+2025-07-03 22:38:48,492 - INFO - [1/1] Processing: pet-supplies
+2025-07-03 22:38:48,492 - INFO - Starting category: pet-supplies
+2025-07-03 22:38:48,492 - INFO - Detecting pages for category: pet-supplies
+2025-07-03 22:38:51,690 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-03 22:42:41,470 - INFO - Scraping interrupted by user
+2025-07-03 22:42:41,709 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 22:42:41,710 - INFO - ================================================================================
+2025-07-03 22:42:41,710 - INFO - Processing 1 categories
+2025-07-03 22:42:41,710 - INFO - ================================================================================
+2025-07-03 22:42:41,710 - INFO - [1/1] Processing: pet-supplies
+2025-07-03 22:42:41,711 - INFO - Starting category: pet-supplies
+2025-07-03 22:42:41,711 - INFO - Detecting pages for category: pet-supplies
+2025-07-03 22:42:45,124 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-03 22:44:25,750 - INFO - Scraping interrupted by user
+2025-07-03 22:47:27,995 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 22:47:27,995 - INFO - ================================================================================
+2025-07-03 22:47:27,995 - INFO - Processing 1 categories
+2025-07-03 22:47:27,995 - INFO - ================================================================================
+2025-07-03 22:47:27,996 - INFO - [1/1] Processing: pet-supplies
+2025-07-03 22:47:27,996 - INFO - Starting category: pet-supplies
+2025-07-03 22:47:27,996 - INFO - Detecting pages for category: pet-supplies
+2025-07-03 22:47:52,346 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-03 22:52:04,140 - INFO - Found 1 pages using method 2
+2025-07-03 22:52:04,323 - INFO - Processing 1 pages for pet-supplies
+2025-07-03 22:52:04,323 - INFO - pet-supplies - Page 1/1
+2025-07-03 22:52:28,624 - INFO - patching driver executable C:\Users\Ibrahim Ahmed\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-03 22:52:29,430 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/pet-supplies?sort=name&order=desc&limit=28&page=1
+2025-07-03 22:52:41,022 - INFO - Found 1 product items on page 1
+2025-07-03 22:52:41,047 - INFO - Extracted 1 unique product links from page 1
+2025-07-03 22:52:41,223 - INFO - pet-supplies - Page 1: 1 products
+2025-07-03 22:52:43,884 - INFO - pet-supplies completed: 1 products
+2025-07-03 22:52:43,884 - INFO - Progress: 1/1 categories | 1 total products
+2025-07-03 22:52:43,885 - INFO - Checkpoint saved successfully
+2025-07-03 22:52:43,887 - INFO - Results saved in: pharmacy_results_20250703_225243/
+2025-07-03 22:52:43,888 - INFO - Combined file: all_products_combined.csv
+2025-07-03 22:52:43,889 - INFO - Summary: scraping_summary.json
+2025-07-03 22:52:43,889 - INFO - Individual category files: 1 files
+2025-07-03 22:52:43,890 - INFO - 
+================================================================================
+2025-07-03 22:52:43,890 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-03 22:52:43,890 - INFO - Total time: 315.9 seconds (5.3 minutes)
+2025-07-03 22:52:43,891 - INFO - Categories processed: 1/1
+2025-07-03 22:52:43,891 - INFO - Total products collected: 1
+2025-07-03 22:52:43,891 - INFO - Average speed: 0.0 products/second
+2025-07-03 22:52:43,891 - INFO - Failed categories: 0
+2025-07-03 22:52:43,892 - INFO - ================================================================================
+2025-07-03 23:29:02,568 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 23:29:02,568 - INFO - ================================================================================
+2025-07-03 23:29:02,568 - INFO - Processing 1 categories
+2025-07-03 23:29:02,569 - ERROR - Scraping failed with error: 'EnhancedPharmacyScraper' object has no attribute 'load_checkpoint'
+2025-07-03 23:29:36,347 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 23:29:36,348 - INFO - ================================================================================
+2025-07-03 23:29:36,348 - INFO - Processing 1 categories
+2025-07-03 23:29:36,349 - INFO - ================================================================================
+2025-07-03 23:29:36,349 - INFO - [1/1] Processing: pet-supplies
+2025-07-03 23:29:36,349 - INFO - Starting category: pet-supplies
+2025-07-03 23:29:36,349 - INFO - Detecting pages for category: pet-supplies
+2025-07-03 23:29:37,518 - INFO - Using playwright for browser automation
+2025-07-03 23:29:50,280 - INFO - Found 1 pages using method 1
+2025-07-03 23:29:50,356 - INFO - Processing 1 pages for pet-supplies
+2025-07-03 23:29:50,356 - INFO - pet-supplies - Page 1/1
+2025-07-03 23:29:50,845 - INFO - Using playwright for browser automation
+2025-07-03 23:29:50,846 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/pet-supplies?sort=name&order=desc&limit=28&page=1
+2025-07-03 23:30:02,935 - INFO - Found 1 product items on page 1
+2025-07-03 23:30:02,948 - INFO - Extracted 1 unique product links from page 1
+2025-07-03 23:30:03,004 - INFO - pet-supplies - Page 1: 1 products
+2025-07-03 23:30:06,432 - INFO - pet-supplies completed: 1 products
+2025-07-03 23:30:06,432 - INFO - Progress: 1/1 categories | 1 total products
+2025-07-03 23:30:06,433 - INFO - Checkpoint saved successfully
+2025-07-03 23:30:06,439 - INFO - Results saved in: pharmacy_results_20250703_233006/
+2025-07-03 23:30:06,440 - INFO - Combined file: all_products_combined.csv
+2025-07-03 23:30:06,440 - INFO - Summary: scraping_summary.json
+2025-07-03 23:30:06,440 - INFO - Individual category files: 1 files
+2025-07-03 23:30:06,441 - INFO - 
+================================================================================
+2025-07-03 23:30:06,442 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-03 23:30:06,443 - INFO - Total time: 30.1 seconds (0.5 minutes)
+2025-07-03 23:30:06,443 - INFO - Categories processed: 1/1
+2025-07-03 23:30:06,443 - INFO - Total products collected: 1
+2025-07-03 23:30:06,443 - INFO - Average speed: 0.0 products/second
+2025-07-03 23:30:06,444 - INFO - Failed categories: 0
+2025-07-03 23:30:06,444 - INFO - ================================================================================
+2025-07-03 23:34:38,128 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 23:34:38,128 - INFO - ================================================================================
+2025-07-03 23:34:38,128 - INFO - Processing 1 categories
+2025-07-03 23:34:38,129 - INFO - ================================================================================
+2025-07-03 23:34:38,129 - INFO - [1/1] Processing: pet-supplies
+2025-07-03 23:34:38,129 - INFO - Starting category: pet-supplies
+2025-07-03 23:34:38,129 - INFO - Detecting pages for category: pet-supplies
+2025-07-03 23:34:38,641 - INFO - Using playwright for browser automation
+2025-07-03 23:34:48,944 - INFO - Found 1 pages using method 1
+2025-07-03 23:34:49,005 - INFO - Processing 1 pages for pet-supplies
+2025-07-03 23:34:49,005 - INFO - pet-supplies - Page 1/1
+2025-07-03 23:34:49,501 - INFO - Using playwright for browser automation
+2025-07-03 23:34:49,501 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/category/pet-supplies?sort=name&order=desc&limit=28&page=1
+2025-07-03 23:35:01,799 - INFO - Found 1 product items on page 1
+2025-07-03 23:35:01,813 - INFO - Extracted 1 unique product links from page 1
+2025-07-03 23:35:01,868 - INFO - pet-supplies - Page 1: 1 products
+2025-07-03 23:35:04,615 - INFO - pet-supplies completed: 1 products
+2025-07-03 23:35:04,615 - INFO - Progress: 1/1 categories | 1 total products
+2025-07-03 23:35:04,615 - INFO - Checkpoint saved successfully
+2025-07-03 23:35:04,617 - INFO - Results saved in: pharmacy_results_20250703_233504/
+2025-07-03 23:35:04,617 - INFO - Combined file: all_products_combined.csv
+2025-07-03 23:35:04,618 - INFO - Summary: scraping_summary.json
+2025-07-03 23:35:04,618 - INFO - Individual category files: 1 files
+2025-07-03 23:35:04,618 - INFO - 
+================================================================================
+2025-07-03 23:35:04,618 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-03 23:35:04,619 - INFO - Total time: 26.5 seconds (0.4 minutes)
+2025-07-03 23:35:04,619 - INFO - Categories processed: 1/1
+2025-07-03 23:35:04,619 - INFO - Total products collected: 1
+2025-07-03 23:35:04,619 - INFO - Average speed: 0.0 products/second
+2025-07-03 23:35:04,620 - INFO - Failed categories: 0
+2025-07-03 23:35:04,620 - INFO - ================================================================================
+2025-07-03 23:36:32,852 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 23:36:32,853 - INFO - ================================================================================
+2025-07-03 23:36:32,853 - INFO - Processing 1 categories
+2025-07-03 23:36:32,853 - INFO - ================================================================================
+2025-07-03 23:36:32,853 - INFO - [1/1] Processing: mood
+2025-07-03 23:36:32,853 - INFO - Starting category: mood
+2025-07-03 23:36:32,853 - INFO - Detecting pages for category: mood
+2025-07-03 23:36:33,687 - INFO - Using playwright for browser automation
+2025-07-03 23:36:44,196 - INFO - Found 1 pages using method 1
+2025-07-03 23:36:44,251 - INFO - Processing 1 pages for mood
+2025-07-03 23:36:44,252 - INFO - mood - Page 1/1
+2025-07-03 23:36:44,737 - INFO - Using playwright for browser automation
+2025-07-03 23:36:44,738 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/brands/mood?sort=name&order=desc&limit=28&page=1
+2025-07-03 23:36:57,361 - INFO - Found 39 product items on page 1
+2025-07-03 23:36:58,578 - INFO - Extracted 1 unique product links from page 1
+2025-07-03 23:36:58,647 - INFO - mood - Page 1: 1 products
+2025-07-03 23:37:01,485 - INFO - mood completed: 1 products
+2025-07-03 23:37:01,485 - INFO - Progress: 1/1 categories | 1 total products
+2025-07-03 23:37:01,486 - INFO - Checkpoint saved successfully
+2025-07-03 23:37:01,487 - INFO - Results saved in: pharmacy_results_20250703_233701/
+2025-07-03 23:37:01,487 - INFO - Combined file: all_products_combined.csv
+2025-07-03 23:37:01,487 - INFO - Summary: scraping_summary.json
+2025-07-03 23:37:01,487 - INFO - Individual category files: 1 files
+2025-07-03 23:37:01,488 - INFO - 
+================================================================================
+2025-07-03 23:37:01,488 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-03 23:37:01,488 - INFO - Total time: 28.6 seconds (0.5 minutes)
+2025-07-03 23:37:01,488 - INFO - Categories processed: 1/1
+2025-07-03 23:37:01,489 - INFO - Total products collected: 1
+2025-07-03 23:37:01,489 - INFO - Average speed: 0.0 products/second
+2025-07-03 23:37:01,489 - INFO - Failed categories: 0
+2025-07-03 23:37:01,489 - INFO - ================================================================================
+2025-07-03 23:38:11,969 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 23:38:11,969 - INFO - ================================================================================
+2025-07-03 23:38:11,969 - INFO - Processing 1 categories
+2025-07-03 23:38:11,969 - INFO - ================================================================================
+2025-07-03 23:38:11,970 - INFO - [1/1] Processing: mood
+2025-07-03 23:38:11,970 - INFO - Starting category: mood
+2025-07-03 23:38:11,970 - INFO - Detecting pages for category: mood
+2025-07-03 23:38:12,483 - INFO - Using playwright for browser automation
+2025-07-03 23:38:23,054 - INFO - Found 1 pages using method 1
+2025-07-03 23:38:23,114 - INFO - Processing 1 pages for mood
+2025-07-03 23:38:23,114 - INFO - mood - Page 1/1
+2025-07-03 23:38:23,611 - INFO - Using playwright for browser automation
+2025-07-03 23:38:23,611 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/brands/mood?sort=name&order=desc&limit=28&page=1
+2025-07-03 23:38:35,996 - INFO - Found 39 product items on page 1
+2025-07-03 23:38:37,230 - INFO - Extracted 1 unique product links from page 1
+2025-07-03 23:38:37,299 - INFO - mood - Page 1: 1 products
+2025-07-03 23:38:40,103 - INFO - mood completed: 1 products
+2025-07-03 23:38:40,103 - INFO - Progress: 1/1 categories | 1 total products
+2025-07-03 23:38:40,103 - INFO - Checkpoint saved successfully
+2025-07-03 23:38:40,106 - INFO - Results saved in: pharmacy_results_20250703_233840/
+2025-07-03 23:38:40,106 - INFO - Combined file: all_products_combined.csv
+2025-07-03 23:38:40,107 - INFO - Summary: scraping_summary.json
+2025-07-03 23:38:40,108 - INFO - Individual category files: 1 files
+2025-07-03 23:38:40,108 - INFO - 
+================================================================================
+2025-07-03 23:38:40,109 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-03 23:38:40,109 - INFO - Total time: 28.1 seconds (0.5 minutes)
+2025-07-03 23:38:40,109 - INFO - Categories processed: 1/1
+2025-07-03 23:38:40,110 - INFO - Total products collected: 1
+2025-07-03 23:38:40,110 - INFO - Average speed: 0.0 products/second
+2025-07-03 23:38:40,110 - INFO - Failed categories: 0
+2025-07-03 23:38:40,110 - INFO - ================================================================================
+2025-07-03 23:40:15,707 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 23:40:15,708 - INFO - ================================================================================
+2025-07-03 23:40:15,708 - INFO - Processing 1 categories
+2025-07-03 23:40:15,708 - INFO - ================================================================================
+2025-07-03 23:40:15,708 - INFO - [1/1] Processing: mood
+2025-07-03 23:40:15,709 - INFO - Starting category: mood
+2025-07-03 23:40:15,709 - INFO - Detecting pages for category: mood
+2025-07-03 23:40:16,223 - INFO - Using playwright for browser automation
+2025-07-03 23:40:26,701 - INFO - Found 1 pages using method 1
+2025-07-03 23:40:26,754 - INFO - Processing 1 pages for mood
+2025-07-03 23:40:26,754 - INFO - mood - Page 1/1
+2025-07-03 23:40:27,257 - INFO - Using playwright for browser automation
+2025-07-03 23:40:27,257 - INFO - Loading URL: https://chefaa.com:443/eg-ar/now/brands/mood?page=1
+2025-07-03 23:40:40,104 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 1
+2025-07-03 23:40:40,127 - INFO - Found 78 product items with selector '.item a[href*='nowProduct']' on page 1
+2025-07-03 23:40:40,329 - INFO - Extracted 39 unique product links from page 1
+2025-07-03 23:40:40,388 - INFO - mood - Page 1: 39 products
+2025-07-03 23:40:43,272 - INFO - mood completed: 39 products
+2025-07-03 23:40:43,272 - INFO - Progress: 1/1 categories | 39 total products
+2025-07-03 23:40:43,274 - INFO - Checkpoint saved successfully
+2025-07-03 23:40:43,275 - INFO - Results saved in: pharmacy_results_20250703_234043/
+2025-07-03 23:40:43,275 - INFO - Combined file: all_products_combined.csv
+2025-07-03 23:40:43,275 - INFO - Summary: scraping_summary.json
+2025-07-03 23:40:43,276 - INFO - Individual category files: 1 files
+2025-07-03 23:40:43,276 - INFO - 
+================================================================================
+2025-07-03 23:40:43,276 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-03 23:40:43,276 - INFO - Total time: 27.6 seconds (0.5 minutes)
+2025-07-03 23:40:43,276 - INFO - Categories processed: 1/1
+2025-07-03 23:40:43,277 - INFO - Total products collected: 39
+2025-07-03 23:40:43,277 - INFO - Average speed: 1.4 products/second
+2025-07-03 23:40:43,278 - INFO - Failed categories: 0
+2025-07-03 23:40:43,278 - INFO - ================================================================================
+2025-07-03 23:42:51,713 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 23:42:51,714 - INFO - ================================================================================
+2025-07-03 23:42:51,714 - INFO - Processing 1 categories
+2025-07-03 23:42:51,714 - INFO - ================================================================================
+2025-07-03 23:42:51,714 - INFO - [1/1] Processing: medications
+2025-07-03 23:42:51,714 - INFO - Starting category: medications
+2025-07-03 23:42:51,715 - INFO - Detecting pages for category: medications
+2025-07-03 23:42:52,221 - INFO - Using playwright for browser automation
+2025-07-03 23:43:03,869 - INFO - Found 137 pages using method 1
+2025-07-03 23:43:03,932 - INFO - Processing 137 pages for medications
+2025-07-03 23:43:03,932 - INFO - medications - Page 1/137
+2025-07-03 23:43:04,431 - INFO - Using playwright for browser automation
+2025-07-03 23:43:04,432 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/medications?page=1
+2025-07-03 23:43:17,207 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 1
+2025-07-03 23:43:17,250 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 1
+2025-07-03 23:43:17,641 - INFO - Extracted 20 unique product links from page 1
+2025-07-03 23:43:17,730 - INFO - medications - Page 1: 20 products
+2025-07-03 23:43:20,775 - INFO - medications - Page 2/137
+2025-07-03 23:43:21,270 - INFO - Using playwright for browser automation
+2025-07-03 23:43:21,270 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/medications?page=2
+2025-07-03 23:43:35,113 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 2
+2025-07-03 23:43:35,158 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 2
+2025-07-03 23:43:35,593 - INFO - Extracted 20 unique product links from page 2
+2025-07-03 23:43:35,683 - INFO - medications - Page 2: 20 products
+2025-07-03 23:43:39,648 - INFO - medications - Page 3/137
+2025-07-03 23:43:40,187 - INFO - Using playwright for browser automation
+2025-07-03 23:43:40,187 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/medications?page=3
+2025-07-03 23:43:53,156 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 3
+2025-07-03 23:43:53,183 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 3
+2025-07-03 23:43:53,414 - INFO - Extracted 20 unique product links from page 3
+2025-07-03 23:43:53,475 - INFO - medications - Page 3: 20 products
+2025-07-03 23:43:56,215 - INFO - medications - Page 4/137
+2025-07-03 23:43:56,824 - INFO - Using playwright for browser automation
+2025-07-03 23:43:56,824 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/medications?page=4
+2025-07-03 23:44:08,777 - WARNING - Playwright cleanup warning: BrowserContext.close: Target page, context or browser has been closed
+2025-07-03 23:44:08,777 - INFO - Scraping interrupted by user
+2025-07-03 23:44:18,937 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 23:44:18,938 - INFO - ================================================================================
+2025-07-03 23:44:18,938 - INFO - Processing 1 categories
+2025-07-03 23:44:18,938 - INFO - ================================================================================
+2025-07-03 23:44:18,938 - INFO - [1/1] Processing: sexual-welness
+2025-07-03 23:44:18,938 - INFO - Starting category: sexual-welness
+2025-07-03 23:44:18,938 - INFO - Detecting pages for category: sexual-welness
+2025-07-03 23:44:19,441 - INFO - Using playwright for browser automation
+2025-07-03 23:44:29,982 - INFO - Found 4 pages using method 1
+2025-07-03 23:44:30,058 - INFO - Processing 4 pages for sexual-welness
+2025-07-03 23:44:30,058 - INFO - sexual-welness - Page 1/4
+2025-07-03 23:44:30,573 - INFO - Using playwright for browser automation
+2025-07-03 23:44:30,573 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=1
+2025-07-03 23:44:43,200 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 1
+2025-07-03 23:44:43,223 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 1
+2025-07-03 23:44:43,385 - INFO - Extracted 20 unique product links from page 1
+2025-07-03 23:44:43,446 - INFO - sexual-welness - Page 1: 20 products
+2025-07-03 23:44:47,036 - INFO - sexual-welness - Page 2/4
+2025-07-03 23:44:47,531 - INFO - Using playwright for browser automation
+2025-07-03 23:44:47,531 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=2
+2025-07-03 23:44:59,755 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 2
+2025-07-03 23:44:59,773 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 2
+2025-07-03 23:45:00,048 - INFO - Extracted 20 unique product links from page 2
+2025-07-03 23:45:00,251 - INFO - sexual-welness - Page 2: 20 products
+2025-07-03 23:45:02,512 - INFO - sexual-welness - Page 3/4
+2025-07-03 23:45:03,034 - INFO - Using playwright for browser automation
+2025-07-03 23:45:03,035 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=3
+2025-07-03 23:45:15,468 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 3
+2025-07-03 23:45:15,490 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 3
+2025-07-03 23:45:15,650 - INFO - Extracted 20 unique product links from page 3
+2025-07-03 23:45:15,712 - INFO - sexual-welness - Page 3: 20 products
+2025-07-03 23:45:18,625 - INFO - sexual-welness - Page 4/4
+2025-07-03 23:45:19,125 - INFO - Using playwright for browser automation
+2025-07-03 23:45:19,126 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=4
+2025-07-03 23:45:31,249 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 4
+2025-07-03 23:45:31,259 - INFO - Found 12 product items with selector '.item a[href*='nowProduct']' on page 4
+2025-07-03 23:45:31,301 - INFO - Extracted 4 unique product links from page 4
+2025-07-03 23:45:31,351 - INFO - sexual-welness - Page 4: 4 products
+2025-07-03 23:45:33,838 - INFO - sexual-welness completed: 64 products
+2025-07-03 23:45:33,838 - INFO - Progress: 1/1 categories | 64 total products
+2025-07-03 23:45:33,838 - INFO - Checkpoint saved successfully
+2025-07-03 23:45:33,842 - INFO - Results saved in: pharmacy_results_20250703_234533/
+2025-07-03 23:45:33,843 - INFO - Combined file: all_products_combined.csv
+2025-07-03 23:45:33,843 - INFO - Summary: scraping_summary.json
+2025-07-03 23:45:33,843 - INFO - Individual category files: 1 files
+2025-07-03 23:45:33,844 - INFO - 
+================================================================================
+2025-07-03 23:45:33,844 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-03 23:45:33,844 - INFO - Total time: 74.9 seconds (1.2 minutes)
+2025-07-03 23:45:33,845 - INFO - Categories processed: 1/1
+2025-07-03 23:45:33,845 - INFO - Total products collected: 64
+2025-07-03 23:45:33,845 - INFO - Average speed: 0.9 products/second
+2025-07-03 23:45:33,845 - INFO - Failed categories: 0
+2025-07-03 23:45:33,846 - INFO - ================================================================================
+2025-07-03 23:49:10,360 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 23:49:10,360 - INFO - ================================================================================
+2025-07-03 23:49:10,360 - INFO - Processing 1 categories
+2025-07-03 23:49:10,361 - INFO - ================================================================================
+2025-07-03 23:49:10,361 - INFO - [1/1] Processing: sexual-welness
+2025-07-03 23:49:10,931 - INFO - Starting category: sexual-welness
+2025-07-03 23:49:10,931 - INFO - Detecting pages for category: sexual-welness
+2025-07-03 23:49:11,439 - INFO - Using playwright for browser automation
+2025-07-03 23:49:21,923 - INFO - Found 4 pages using method 1
+2025-07-03 23:49:21,979 - INFO - Processing 4 pages for sexual-welness
+2025-07-03 23:49:21,979 - INFO - sexual-welness - Page 1/4
+2025-07-03 23:49:22,474 - INFO - Using playwright for browser automation
+2025-07-03 23:49:22,475 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=1
+2025-07-03 23:49:35,524 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 1
+2025-07-03 23:49:35,544 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 1
+2025-07-03 23:49:58,473 - INFO - Extracted 20 valid unique product links from page 1
+2025-07-03 23:49:58,540 - INFO - sexual-welness - Page 1: 20 products
+2025-07-03 23:50:00,711 - INFO - sexual-welness - Page 2/4
+2025-07-03 23:50:01,223 - INFO - Using playwright for browser automation
+2025-07-03 23:50:01,223 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=2
+2025-07-03 23:50:14,249 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 2
+2025-07-03 23:50:14,268 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 2
+2025-07-03 23:50:37,922 - INFO - Extracted 20 valid unique product links from page 2
+2025-07-03 23:50:38,004 - INFO - sexual-welness - Page 2: 20 products
+2025-07-03 23:50:41,156 - INFO - sexual-welness - Page 3/4
+2025-07-03 23:50:41,644 - INFO - Using playwright for browser automation
+2025-07-03 23:50:41,644 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=3
+2025-07-03 23:50:54,441 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 3
+2025-07-03 23:50:54,460 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 3
+2025-07-03 23:51:17,446 - INFO - Extracted 20 valid unique product links from page 3
+2025-07-03 23:51:17,506 - INFO - sexual-welness - Page 3: 20 products
+2025-07-03 23:51:19,693 - INFO - sexual-welness - Page 4/4
+2025-07-03 23:51:20,206 - INFO - Using playwright for browser automation
+2025-07-03 23:51:20,207 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=4
+2025-07-03 23:51:33,006 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 4
+2025-07-03 23:51:33,018 - INFO - Found 12 product items with selector '.item a[href*='nowProduct']' on page 4
+2025-07-03 23:51:37,657 - INFO - Extracted 4 valid unique product links from page 4
+2025-07-03 23:51:37,717 - INFO - sexual-welness - Page 4: 4 products
+2025-07-03 23:51:41,086 - INFO - sexual-welness completed: 64 products
+2025-07-03 23:51:41,086 - INFO - Progress: 1/1 categories | 64 total products
+2025-07-03 23:51:41,087 - INFO - Checkpoint saved successfully
+2025-07-03 23:51:41,089 - INFO - Results saved in: pharmacy_results_20250703_235141/
+2025-07-03 23:51:41,089 - INFO - Combined file: all_products_combined.csv
+2025-07-03 23:51:41,089 - INFO - Summary: scraping_summary.json
+2025-07-03 23:51:41,091 - INFO - Individual category files: 1 files
+2025-07-03 23:51:41,092 - INFO - 
+================================================================================
+2025-07-03 23:51:41,092 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-03 23:51:41,092 - INFO - Total time: 150.7 seconds (2.5 minutes)
+2025-07-03 23:51:41,093 - INFO - Categories processed: 1/1
+2025-07-03 23:51:41,093 - INFO - Total products collected: 64
+2025-07-03 23:51:41,093 - INFO - Average speed: 0.4 products/second
+2025-07-03 23:51:41,094 - INFO - Failed categories: 0
+2025-07-03 23:51:41,094 - INFO - ================================================================================
+2025-07-03 23:54:01,471 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 23:54:01,472 - INFO - ================================================================================
+2025-07-03 23:54:01,472 - INFO - Processing 1 categories
+2025-07-03 23:54:01,472 - INFO - ================================================================================
+2025-07-03 23:54:01,472 - INFO - [1/1] Processing: sexual-welness
+2025-07-03 23:54:02,145 - INFO - Starting category: sexual-welness
+2025-07-03 23:54:02,146 - INFO - Detecting pages for category: sexual-welness
+2025-07-03 23:54:02,669 - INFO - Using playwright for browser automation
+2025-07-03 23:54:15,096 - INFO - Found 4 valid pages using method 1
+2025-07-03 23:54:15,149 - INFO - Processing 4 pages for sexual-welness
+2025-07-03 23:54:15,149 - INFO - sexual-welness - Page 1/4
+2025-07-03 23:54:15,644 - INFO - Using playwright for browser automation
+2025-07-03 23:54:15,644 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=1
+2025-07-03 23:54:28,048 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 1
+2025-07-03 23:54:28,074 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 1
+2025-07-03 23:54:50,849 - INFO - Extracted 20 valid unique product links from page 1
+2025-07-03 23:54:50,921 - INFO - sexual-welness - Page 1: 20 products
+2025-07-03 23:54:54,772 - INFO - sexual-welness - Page 2/4
+2025-07-03 23:54:55,278 - INFO - Using playwright for browser automation
+2025-07-03 23:54:55,279 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=2
+2025-07-03 23:55:07,361 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 2
+2025-07-03 23:55:07,383 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 2
+2025-07-03 23:55:30,544 - INFO - Extracted 20 valid unique product links from page 2
+2025-07-03 23:55:30,600 - INFO - sexual-welness - Page 2: 20 products
+2025-07-03 23:55:33,058 - INFO - sexual-welness - Page 3/4
+2025-07-03 23:55:33,557 - INFO - Using playwright for browser automation
+2025-07-03 23:55:33,558 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=3
+2025-07-03 23:55:45,128 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 3
+2025-07-03 23:55:45,148 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 3
+2025-07-03 23:56:07,983 - INFO - Extracted 20 valid unique product links from page 3
+2025-07-03 23:56:08,051 - INFO - sexual-welness - Page 3: 20 products
+2025-07-03 23:56:11,557 - INFO - sexual-welness - Page 4/4
+2025-07-03 23:56:12,053 - INFO - Using playwright for browser automation
+2025-07-03 23:56:12,053 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=4
+2025-07-03 23:56:24,219 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 4
+2025-07-03 23:56:24,229 - INFO - Found 12 product items with selector '.item a[href*='nowProduct']' on page 4
+2025-07-03 23:56:29,036 - INFO - Extracted 4 valid unique product links from page 4
+2025-07-03 23:56:29,097 - INFO - sexual-welness - Page 4: 4 products
+2025-07-03 23:56:31,135 - INFO - sexual-welness completed: 64 products
+2025-07-03 23:56:31,135 - INFO - Progress: 1/1 categories | 64 total products
+2025-07-03 23:56:31,136 - INFO - Checkpoint saved successfully
+2025-07-03 23:56:31,137 - INFO - Results saved in: pharmacy_results_20250703_235631/
+2025-07-03 23:56:31,138 - INFO - Combined file: all_products_combined.csv
+2025-07-03 23:56:31,138 - INFO - Summary: scraping_summary.json
+2025-07-03 23:56:31,138 - INFO - Individual category files: 1 files
+2025-07-03 23:56:31,139 - INFO - 
+================================================================================
+2025-07-03 23:56:31,139 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-03 23:56:31,139 - INFO - Total time: 149.7 seconds (2.5 minutes)
+2025-07-03 23:56:31,139 - INFO - Categories processed: 1/1
+2025-07-03 23:56:31,141 - INFO - Total products collected: 64
+2025-07-03 23:56:31,141 - INFO - Average speed: 0.4 products/second
+2025-07-03 23:56:31,141 - INFO - Failed categories: 0
+2025-07-03 23:56:31,142 - INFO - ================================================================================
+2025-07-03 23:59:32,021 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-03 23:59:32,022 - INFO - ================================================================================
+2025-07-03 23:59:32,022 - INFO - Processing 1 categories
+2025-07-03 23:59:32,022 - INFO - ================================================================================
+2025-07-03 23:59:32,023 - INFO - [1/1] Processing: sexual-welness
+2025-07-03 23:59:32,565 - INFO - Starting category: sexual-welness
+2025-07-03 23:59:32,566 - INFO - Detecting pages for category: sexual-welness
+2025-07-03 23:59:33,076 - INFO - Using playwright for browser automation
+2025-07-03 23:59:45,753 - INFO - Found 4 valid pages using method 1
+2025-07-03 23:59:45,821 - INFO - Processing 4 pages for sexual-welness
+2025-07-03 23:59:45,821 - INFO - sexual-welness - Page 1/4
+2025-07-03 23:59:46,326 - INFO - Using playwright for browser automation
+2025-07-03 23:59:46,326 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=1
+2025-07-03 23:59:58,492 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 1
+2025-07-03 23:59:58,512 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 1
+2025-07-04 00:00:29,936 - INFO - Extracted 20 working product links from page 1
+2025-07-04 00:00:29,936 - WARNING - Found 40 broken links on page 1
+2025-07-04 00:00:29,991 - INFO - sexual-welness - Page 1: 20 products
+2025-07-04 00:00:33,138 - INFO - sexual-welness - Page 2/4
+2025-07-04 00:00:33,633 - INFO - Using playwright for browser automation
+2025-07-04 00:00:33,633 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=2
+2025-07-04 00:00:46,053 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 2
+2025-07-04 00:00:46,073 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 2
+2025-07-04 00:01:15,118 - INFO - Extracted 20 working product links from page 2
+2025-07-04 00:01:15,118 - WARNING - Found 40 broken links on page 2
+2025-07-04 00:01:15,189 - INFO - sexual-welness - Page 2: 20 products
+2025-07-04 00:01:18,949 - INFO - sexual-welness - Page 3/4
+2025-07-04 00:01:19,439 - INFO - Using playwright for browser automation
+2025-07-04 00:01:19,440 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=3
+2025-07-04 00:01:31,597 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 3
+2025-07-04 00:01:31,618 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 3
+2025-07-04 00:02:00,409 - INFO - Extracted 20 working product links from page 3
+2025-07-04 00:02:00,410 - WARNING - Found 40 broken links on page 3
+2025-07-04 00:02:00,471 - INFO - sexual-welness - Page 3: 20 products
+2025-07-04 00:02:02,575 - INFO - sexual-welness - Page 4/4
+2025-07-04 00:02:03,068 - INFO - Using playwright for browser automation
+2025-07-04 00:02:03,069 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=4
+2025-07-04 00:02:15,672 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 4
+2025-07-04 00:02:15,680 - INFO - Found 12 product items with selector '.item a[href*='nowProduct']' on page 4
+2025-07-04 00:02:21,434 - INFO - Extracted 4 working product links from page 4
+2025-07-04 00:02:21,435 - WARNING - Found 8 broken links on page 4
+2025-07-04 00:02:21,492 - INFO - sexual-welness - Page 4: 4 products
+2025-07-04 00:02:25,266 - INFO - sexual-welness completed: 64 products
+2025-07-04 00:02:25,266 - INFO - Progress: 1/1 categories | 64 total products
+2025-07-04 00:02:25,267 - INFO - Checkpoint saved successfully
+2025-07-04 00:02:25,269 - INFO - Results saved in: pharmacy_results_20250704_000225/
+2025-07-04 00:02:25,269 - INFO - Combined file: all_products_combined.csv
+2025-07-04 00:02:25,269 - INFO - Summary: scraping_summary.json
+2025-07-04 00:02:25,269 - INFO - Individual category files: 1 files
+2025-07-04 00:02:25,270 - INFO - 
+================================================================================
+2025-07-04 00:02:25,270 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-04 00:02:25,270 - INFO - Total time: 173.2 seconds (2.9 minutes)
+2025-07-04 00:02:25,270 - INFO - Categories processed: 1/1
+2025-07-04 00:02:25,271 - INFO - Total products collected: 64
+2025-07-04 00:02:25,271 - INFO - Average speed: 0.4 products/second
+2025-07-04 00:02:25,271 - INFO - Failed categories: 0
+2025-07-04 00:02:25,271 - INFO - ================================================================================
+2025-07-04 00:07:21,757 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-04 00:07:21,758 - INFO - ================================================================================
+2025-07-04 00:07:21,758 - INFO - Processing 1 categories
+2025-07-04 00:07:21,758 - INFO - ================================================================================
+2025-07-04 00:07:21,759 - INFO - [1/1] Processing: sexual-welness
+2025-07-04 00:07:22,279 - INFO - Starting category: sexual-welness
+2025-07-04 00:07:22,279 - INFO - Detecting pages for category: sexual-welness
+2025-07-04 00:07:22,816 - INFO - Using playwright for browser automation
+2025-07-04 00:07:35,603 - INFO - Found 4 valid pages using method 1
+2025-07-04 00:07:35,674 - INFO - Processing 4 pages for sexual-welness
+2025-07-04 00:07:35,674 - INFO - sexual-welness - Page 1/4
+2025-07-04 00:07:36,177 - INFO - Using playwright for browser automation
+2025-07-04 00:07:36,177 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=1
+2025-07-04 00:07:48,929 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 1
+2025-07-04 00:07:48,953 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 1
+2025-07-04 00:08:18,834 - INFO - Extracted 20 working product links from page 1
+2025-07-04 00:08:18,835 - WARNING - Found 40 broken links on page 1
+2025-07-04 00:08:18,922 - INFO - sexual-welness - Page 1: 20 products
+2025-07-04 00:08:21,739 - INFO - sexual-welness - Page 2/4
+2025-07-04 00:08:22,244 - INFO - Using playwright for browser automation
+2025-07-04 00:08:22,245 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=2
+2025-07-04 00:08:34,896 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 2
+2025-07-04 00:08:34,920 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 2
+2025-07-04 00:09:03,696 - INFO - Extracted 20 working product links from page 2
+2025-07-04 00:09:03,696 - WARNING - Found 40 broken links on page 2
+2025-07-04 00:09:03,755 - INFO - sexual-welness - Page 2: 20 products
+2025-07-04 00:09:07,663 - INFO - sexual-welness - Page 3/4
+2025-07-04 00:09:08,196 - INFO - Using playwright for browser automation
+2025-07-04 00:09:08,197 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=3
+2025-07-04 00:09:20,112 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 3
+2025-07-04 00:09:20,138 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 3
+2025-07-04 00:09:49,111 - INFO - Extracted 20 working product links from page 3
+2025-07-04 00:09:49,111 - WARNING - Found 40 broken links on page 3
+2025-07-04 00:09:49,184 - INFO - sexual-welness - Page 3: 20 products
+2025-07-04 00:09:51,495 - INFO - sexual-welness - Page 4/4
+2025-07-04 00:09:52,005 - INFO - Using playwright for browser automation
+2025-07-04 00:09:52,005 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=4
+2025-07-04 00:10:04,451 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 4
+2025-07-04 00:10:04,462 - INFO - Found 12 product items with selector '.item a[href*='nowProduct']' on page 4
+2025-07-04 00:10:10,368 - INFO - Extracted 4 working product links from page 4
+2025-07-04 00:10:10,369 - WARNING - Found 8 broken links on page 4
+2025-07-04 00:10:10,441 - INFO - sexual-welness - Page 4: 4 products
+2025-07-04 00:10:14,046 - INFO - sexual-welness completed: 64 products
+2025-07-04 00:10:14,046 - INFO - Progress: 1/1 categories | 64 total products
+2025-07-04 00:10:14,047 - INFO - Checkpoint saved successfully
+2025-07-04 00:10:14,049 - INFO - Results saved in: pharmacy_results_20250704_001014/
+2025-07-04 00:10:14,049 - INFO - Combined file: all_products_combined.csv
+2025-07-04 00:10:14,049 - INFO - Summary: scraping_summary.json
+2025-07-04 00:10:14,050 - INFO - Individual category files: 1 files
+2025-07-04 00:10:14,050 - INFO - 
+================================================================================
+2025-07-04 00:10:14,050 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-04 00:10:14,050 - INFO - Total time: 172.3 seconds (2.9 minutes)
+2025-07-04 00:10:14,051 - INFO - Categories processed: 1/1
+2025-07-04 00:10:14,051 - INFO - Total products collected: 64
+2025-07-04 00:10:14,051 - INFO - Average speed: 0.4 products/second
+2025-07-04 00:10:14,051 - INFO - Failed categories: 0
+2025-07-04 00:10:14,051 - INFO - ================================================================================
+2025-07-05 00:20:49,462 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-05 00:20:49,462 - INFO - ================================================================================
+2025-07-05 00:20:49,463 - INFO - Processing 1 categories
+2025-07-05 00:20:49,463 - INFO - ================================================================================
+2025-07-05 00:20:49,463 - INFO - [1/1] Processing: sexual-welness
+2025-07-05 00:20:50,201 - INFO - Starting category: sexual-welness
+2025-07-05 00:20:50,202 - INFO - Detecting pages for category: sexual-welness
+2025-07-05 00:20:52,609 - INFO - Using playwright for browser automation
+2025-07-05 00:21:27,330 - INFO - Found 4 valid pages using method 1
+2025-07-05 00:21:27,697 - INFO - Processing 4 pages for sexual-welness
+2025-07-05 00:21:27,698 - INFO - sexual-welness - Page 1/4
+2025-07-05 00:21:28,168 - INFO - Using playwright for browser automation
+2025-07-05 00:21:28,168 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=1
+2025-07-05 00:21:40,817 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 1
+2025-07-05 00:21:40,837 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 1
+2025-07-05 00:21:57,402 - WARNING - Playwright cleanup warning: Page.close: Connection closed while reading from the driver
+2025-07-05 00:21:57,402 - INFO - Scraping interrupted by user
+2025-07-05 00:22:06,753 - INFO - Enhanced Multi-Category Pharmacy Scraper Starting...
+2025-07-05 00:22:06,754 - INFO - ================================================================================
+2025-07-05 00:22:06,754 - INFO - Processing 1 categories
+2025-07-05 00:22:06,754 - INFO - ================================================================================
+2025-07-05 00:22:06,754 - INFO - [1/1] Processing: sexual-welness
+2025-07-05 00:22:07,469 - INFO - Starting category: sexual-welness
+2025-07-05 00:22:07,469 - INFO - Detecting pages for category: sexual-welness
+2025-07-05 00:22:08,403 - INFO - Using playwright for browser automation
+2025-07-05 00:22:20,743 - INFO - Found 4 valid pages using method 1
+2025-07-05 00:22:20,806 - INFO - Processing 4 pages for sexual-welness
+2025-07-05 00:22:20,806 - INFO - sexual-welness - Page 1/4
+2025-07-05 00:22:21,310 - INFO - Using playwright for browser automation
+2025-07-05 00:22:21,310 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=1
+2025-07-05 00:22:33,708 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 1
+2025-07-05 00:22:33,727 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 1
+2025-07-05 00:23:02,204 - INFO - Extracted 20 working product links from page 1
+2025-07-05 00:23:02,205 - WARNING - Found 40 broken links on page 1
+2025-07-05 00:23:02,274 - INFO - sexual-welness - Page 1: 20 products
+2025-07-05 00:23:04,296 - INFO - sexual-welness - Page 2/4
+2025-07-05 00:23:04,765 - INFO - Using playwright for browser automation
+2025-07-05 00:23:04,765 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=2
+2025-07-05 00:23:17,282 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 2
+2025-07-05 00:23:17,301 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 2
+2025-07-05 00:23:45,969 - INFO - Extracted 20 working product links from page 2
+2025-07-05 00:23:45,970 - WARNING - Found 40 broken links on page 2
+2025-07-05 00:23:46,026 - INFO - sexual-welness - Page 2: 20 products
+2025-07-05 00:23:49,891 - INFO - sexual-welness - Page 3/4
+2025-07-05 00:23:50,352 - INFO - Using playwright for browser automation
+2025-07-05 00:23:50,352 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=3
+2025-07-05 00:24:02,715 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 3
+2025-07-05 00:24:02,742 - INFO - Found 60 product items with selector '.item a[href*='nowProduct']' on page 3
+2025-07-05 00:24:30,874 - INFO - Extracted 20 working product links from page 3
+2025-07-05 00:24:30,875 - WARNING - Found 40 broken links on page 3
+2025-07-05 00:24:30,930 - INFO - sexual-welness - Page 3: 20 products
+2025-07-05 00:24:34,320 - INFO - sexual-welness - Page 4/4
+2025-07-05 00:24:34,802 - INFO - Using playwright for browser automation
+2025-07-05 00:24:34,802 - INFO - Loading URL: https://chefaa.com/eg-ar/now/category/sexual-welness?page=4
+2025-07-05 00:24:46,282 - INFO - Found 0 product items with selector '.product-item a[href*='nowProduct']' on page 4
+2025-07-05 00:24:46,290 - INFO - Found 12 product items with selector '.item a[href*='nowProduct']' on page 4
+2025-07-05 00:24:52,479 - INFO - Extracted 4 working product links from page 4
+2025-07-05 00:24:52,481 - WARNING - Found 8 broken links on page 4
+2025-07-05 00:24:52,544 - INFO - sexual-welness - Page 4: 4 products
+2025-07-05 00:24:56,180 - INFO - sexual-welness completed: 64 products
+2025-07-05 00:24:56,180 - INFO - Progress: 1/1 categories | 64 total products
+2025-07-05 00:24:56,182 - INFO - Checkpoint saved successfully
+2025-07-05 00:24:56,184 - INFO - Results saved in: pharmacy_results_20250705_002456/
+2025-07-05 00:24:56,197 - INFO - Combined file: all_products_combined.csv
+2025-07-05 00:24:56,198 - INFO - Summary: scraping_summary.json
+2025-07-05 00:24:56,198 - INFO - Individual category files: 1 files
+2025-07-05 00:24:56,199 - INFO - 
+================================================================================
+2025-07-05 00:24:56,199 - INFO - MULTI-CATEGORY SCRAPING COMPLETED!
+2025-07-05 00:24:56,200 - INFO - Total time: 169.4 seconds (2.8 minutes)
+2025-07-05 00:24:56,200 - INFO - Categories processed: 1/1
+2025-07-05 00:24:56,200 - INFO - Total products collected: 64
+2025-07-05 00:24:56,200 - INFO - Average speed: 0.4 products/second
+2025-07-05 00:24:56,201 - INFO - Failed categories: 0
+2025-07-05 00:24:56,201 - INFO - ================================================================================

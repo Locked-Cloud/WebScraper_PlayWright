@@ -1,0 +1,299 @@
+[2025-07-05 01:31:48.674265] Creating Playwright browser
+[2025-07-05 01:31:48.675265] Creating Playwright browser
+[2025-07-05 01:31:48.676265] Creating Playwright browser
+[2025-07-05 01:31:48.676265] Creating Playwright browser
+[2025-07-05 01:31:48.677264] Creating Playwright browser
+[2025-07-05 01:31:48.678266] Creating Playwright browser
+[2025-07-05 01:31:48.679778] Creating Playwright browser
+[2025-07-05 01:31:48.680778] Creating Playwright browser
+[2025-07-05 01:31:48.682803] Creating Playwright browser
+[2025-07-05 01:31:48.682803] Creating Playwright browser
+[2025-07-05 01:31:48.683810] Creating Playwright browser
+[2025-07-05 01:31:48.684810] Creating Playwright browser
+[2025-07-05 01:31:48.686810] Creating Playwright browser
+[2025-07-05 01:31:48.687810] Creating Playwright browser
+[2025-07-05 01:31:48.690813] Creating Playwright browser
+[2025-07-05 01:31:48.690813] Creating Playwright browser
+[2025-07-05 01:31:48.691811] Creating Playwright browser
+[2025-07-05 01:31:48.693813] Creating Playwright browser
+[2025-07-05 01:31:48.694812] Creating Playwright browser
+[2025-07-05 01:31:48.696811] Creating Playwright browser
+[2025-07-05 01:32:17.363742] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/brilliant-100mg-8-f-c-tab-jc4t-01729594546.png (priority: 63)
+[2025-07-05 01:32:17.460853] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-time-condoms-for-men-10pcs-rzlc-01720894402.png (priority: 63)
+[2025-07-05 01:32:17.460853] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-thin-strawberry-3pcs-gufc-dulixhck-01709540328.png (priority: 63)
+[2025-07-05 01:32:17.460853] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/control-gel-lubricante-warm-touch-75ml-palg-dupiwzgq-duefrbzd-01726482048.png (priority: 63)
+[2025-07-05 01:32:17.460853] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-condom-fetherlite-ultra-12pcs-wfoq-01701373214.png (priority: 63)
+[2025-07-05 01:32:17.460853] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-condoms-extra-ribbed-3pcs-9pco-01720893714.png (priority: 63)
+[2025-07-05 01:32:17.460853] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-naughty-chocolate-condoms-3-pieces-veqa-01726335128.png (priority: 63)
+[2025-07-05 01:32:17.460853] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-safe-condom-pack-of-3-01720894310.png (priority: 63)
+[2025-07-05 01:32:17.461854] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-intense-pleasure-ribbed-and-dotted-condoms-12pcs-bqqi-01720895445.png (priority: 63)
+[2025-07-05 01:32:17.461854] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-air-ultrathin-3pcs-4jfy-01720894754.png (priority: 63)
+[2025-07-05 01:32:17.579865] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/cialis-20-mg-2-tab-01727781413.png (priority: 63)
+[2025-07-05 01:32:17.994128] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-condom-extra-safe-12-pieces-01720894182.png (priority: 63)
+[2025-07-05 01:32:18.434877] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-thin-bubblegum-condom-3pcs-gqux-01683644279.png (priority: 63)
+[2025-07-05 01:32:18.702548] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-thin-strawberry-3pcs-gufc-01701376786.png (priority: 63)
+[2025-07-05 01:32:22.083909] Creating Playwright browser
+[2025-07-05 01:32:22.114925] Creating Playwright browser
+[2025-07-05 01:32:22.119450] Creating Playwright browser
+[2025-07-05 01:32:22.122448] Creating Playwright browser
+[2025-07-05 01:32:22.127956] Creating Playwright browser
+[2025-07-05 01:32:22.132496] Creating Playwright browser
+[2025-07-05 01:32:22.160640] Creating Playwright browser
+[2025-07-05 01:32:22.178157] Creating Playwright browser
+[2025-07-05 01:32:22.200116] Creating Playwright browser
+[2025-07-05 01:32:22.250865] Creating Playwright browser
+[2025-07-05 01:32:22.250865] Creating Playwright browser
+[2025-07-05 01:32:22.251863] Creating Playwright browser
+[2025-07-05 01:32:22.434781] Creating Playwright browser
+[2025-07-05 01:32:22.437786] Creating Playwright browser
+[2025-07-05 01:32:24.755478] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/derilgy-60mg-6tab-a7tfg-01732558877.png (priority: 63)
+[2025-07-05 01:32:25.227823] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/countries/MiQwqui1UmAar4kyTXnQEunm236DUzxk8adOYIBf.png (priority: 25)
+[2025-07-05 01:32:25.311381] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/user-register.png (priority: 20)
+[2025-07-05 01:32:25.395710] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/close-icon.png (priority: 20)
+[2025-07-05 01:32:25.477111] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/Filter.png (priority: 20)
+[2025-07-05 01:32:25.508326] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-thin-condoms-3-pcs-eov3-01720894857.png (priority: 63)
+[2025-07-05 01:32:25.606042] Creating Playwright browser
+[2025-07-05 01:32:26.250852] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-chocolate-extra-thin-10-pcs-ftbt-01720894978.png (priority: 63)
+[2025-07-05 01:32:26.329493] Creating Playwright browser
+[2025-07-05 01:32:27.121303] Creating Playwright browser
+[2025-07-05 01:32:27.370060] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/control-aloevera-flavored-lubricant-75ml-9bg0-01696265756.png (priority: 63)
+[2025-07-05 01:32:29.111728] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/avetrix-gel-100gm-esrq-01680796338.png (priority: 63)
+[2025-07-05 01:32:29.478238] Creating Playwright browser
+[2025-07-05 01:32:29.804659] Creating Playwright browser
+[2025-07-05 01:32:30.190870] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/cialis-20mg-4tablets-j4vd-01727781380.png (priority: 63)
+[2025-07-05 01:32:30.928078] Creating Playwright browser
+[2025-07-05 01:32:42.094183] Creating Playwright browser
+[2025-07-05 01:32:42.095296] Creating Playwright browser
+[2025-07-05 01:32:42.095296] Creating Playwright browser
+[2025-07-05 01:32:42.096184] Creating Playwright browser
+[2025-07-05 01:32:42.097184] Creating Playwright browser
+[2025-07-05 01:32:42.099184] Creating Playwright browser
+[2025-07-05 01:32:42.100184] Creating Playwright browser
+[2025-07-05 01:32:42.101185] Creating Playwright browser
+[2025-07-05 01:32:42.102185] Creating Playwright browser
+[2025-07-05 01:32:42.103185] Creating Playwright browser
+[2025-07-05 01:32:42.103185] Creating Playwright browser
+[2025-07-05 01:32:42.104185] Creating Playwright browser
+[2025-07-05 01:32:42.105185] Creating Playwright browser
+[2025-07-05 01:32:42.108185] Creating Playwright browser
+[2025-07-05 01:32:42.108185] Creating Playwright browser
+[2025-07-05 01:32:42.109185] Creating Playwright browser
+[2025-07-05 01:32:42.111185] Creating Playwright browser
+[2025-07-05 01:32:42.111185] Creating Playwright browser
+[2025-07-05 01:32:42.112186] Creating Playwright browser
+[2025-07-05 01:32:42.113195] Creating Playwright browser
+[2025-07-05 01:32:53.188563] Creating Playwright browser
+[2025-07-05 01:32:54.377677] Creating Playwright browser
+[2025-07-05 01:32:54.408934] Creating Playwright browser
+[2025-07-05 01:32:54.472458] Creating Playwright browser
+[2025-07-05 01:33:07.858065] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/trib-gold-30-caps-d58n-01722167619.png (priority: 63)
+[2025-07-05 01:33:09.357870] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/varde-20mg-4tab-pfgt-01686132744.png (priority: 63)
+[2025-07-05 01:33:09.829838] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/countries/MiQwqui1UmAar4kyTXnQEunm236DUzxk8adOYIBf.png (priority: 25)
+[2025-07-05 01:33:09.932533] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/user-register.png (priority: 20)
+[2025-07-05 01:33:10.014983] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/close-icon.png (priority: 20)
+[2025-07-05 01:33:10.107846] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/Filter.png (priority: 20)
+[2025-07-05 01:33:10.971462] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/ultra-rabbed-3-condomsylsl-01733300132.png (priority: 63)
+[2025-07-05 01:33:29.562408] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/vardenorect-20mg-8tab-lbof-01686132536.png (priority: 63)
+[2025-07-05 01:36:58.615334] Creating Playwright browser
+[2025-07-05 01:36:59.030564] Creating Playwright browser
+[2025-07-05 01:36:59.114293] Creating Playwright browser
+[2025-07-05 01:36:59.224848] Creating Playwright browser
+[2025-07-05 01:36:59.678180] Creating Playwright browser
+[2025-07-05 01:37:19.773421] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/avetrix-gel-100gm-esrq-01680796338.png (priority: 63)
+[2025-07-05 01:37:20.215252] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/control-aloevera-flavored-lubricant-75ml-9bg0-01696265756.png (priority: 63)
+[2025-07-05 01:37:22.885456] Creating Playwright browser
+[2025-07-05 01:37:22.955072] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/brilliant-100mg-8-f-c-tab-jc4t-01729594546.png (priority: 63)
+[2025-07-05 01:37:23.054105] Creating Playwright browser
+[2025-07-05 01:37:24.612397] Creating Playwright browser
+[2025-07-05 01:37:25.258143] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/cialis-20mg-4tablets-j4vd-01727781380.png (priority: 63)
+[2025-07-05 01:37:27.133319] Creating Playwright browser
+[2025-07-05 01:37:27.188478] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/cialis-20-mg-2-tab-01727781413.png (priority: 63)
+[2025-07-05 01:37:29.364253] Creating Playwright browser
+[2025-07-05 01:37:43.634451] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/derilgy-60mg-6tab-a7tfg-01732558877.png (priority: 63)
+[2025-07-05 01:37:43.712995] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/countries/MiQwqui1UmAar4kyTXnQEunm236DUzxk8adOYIBf.png (priority: 25)
+[2025-07-05 01:37:43.790952] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/user-register.png (priority: 20)
+[2025-07-05 01:37:43.868988] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/close-icon.png (priority: 20)
+[2025-07-05 01:37:43.874988] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/control-gel-lubricante-warm-touch-75ml-palg-dupiwzgq-duefrbzd-01726482048.png (priority: 63)
+[2025-07-05 01:37:43.940538] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/Filter.png (priority: 20)
+[2025-07-05 01:37:46.539522] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-air-ultrathin-3pcs-4jfy-01720894754.png (priority: 63)
+[2025-07-05 01:37:47.995966] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-chocolate-extra-thin-10-pcs-ftbt-01720894978.png (priority: 63)
+[2025-07-05 01:38:08.026720] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-condom-extra-safe-12-pieces-01720894182.png (priority: 63)
+[2025-07-05 01:38:14.870609] Creating Playwright browser
+[2025-07-05 01:38:15.031462] Creating Playwright browser
+[2025-07-05 01:38:15.393451] Creating Playwright browser
+[2025-07-05 01:38:15.674486] Creating Playwright browser
+[2025-07-05 01:38:15.946832] Creating Playwright browser
+[2025-07-05 01:38:35.356542] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-condom-fetherlite-ultra-12pcs-wfoq-01701373214.png (priority: 63)
+[2025-07-05 01:38:35.886036] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-thin-condoms-3-pcs-eov3-01720894857.png (priority: 63)
+[2025-07-05 01:38:37.642213] Creating Playwright browser
+[2025-07-05 01:38:37.753044] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-condoms-extra-ribbed-3pcs-9pco-01720893714.png (priority: 63)
+[2025-07-05 01:38:38.333075] Creating Playwright browser
+[2025-07-05 01:38:39.876394] Creating Playwright browser
+[2025-07-05 01:38:57.701628] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-thin-bubblegum-condom-3pcs-gqux-01683644279.png (priority: 63)
+[2025-07-05 01:38:57.973931] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-safe-condom-pack-of-3-01720894310.png (priority: 63)
+[2025-07-05 01:38:59.590260] Creating Playwright browser
+[2025-07-05 01:39:00.606015] Creating Playwright browser
+[2025-07-05 01:39:01.074297] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-thin-strawberry-3pcs-gufc-dulixhck-01709540328.png (priority: 63)
+[2025-07-05 01:39:01.269529] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-thin-strawberry-3pcs-gufc-01701376786.png (priority: 63)
+[2025-07-05 01:39:18.093694] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-extra-time-condoms-for-men-10pcs-rzlc-01720894402.png (priority: 63)
+[2025-07-05 01:39:21.643271] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-intense-pleasure-ribbed-and-dotted-condoms-12pcs-bqqi-01720895445.png (priority: 63)
+[2025-07-05 01:39:22.485696] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-naughty-chocolate-condoms-3-pieces-veqa-01726335128.png (priority: 63)
+[2025-07-05 01:39:33.412276] Creating Playwright browser
+[2025-07-05 01:39:33.469987] Creating Playwright browser
+[2025-07-05 01:39:33.528408] Creating Playwright browser
+[2025-07-05 01:39:34.005111] Creating Playwright browser
+[2025-07-05 01:39:34.697366] Creating Playwright browser
+[2025-07-05 01:39:53.624592] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-play-strawberry-50-ml-01720893982.png (priority: 63)
+[2025-07-05 01:39:54.759021] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-play-feel-50-mll-01720894508.png (priority: 63)
+[2025-07-05 01:39:55.794165] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-play-perfect-glide-silicone-lubricant-50ml-7mir-01720893891.png (priority: 63)
+[2025-07-05 01:39:56.536710] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-play-cheeky-cherry-pleasure-gel-50-ml-01710077856.png (priority: 63)
+[2025-07-05 01:39:56.901651] Creating Playwright browser
+[2025-07-05 01:39:57.984034] Creating Playwright browser
+[2025-07-05 01:39:58.874436] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/1591277604durex-performax-intense-3-condoms.jpg (priority: 63)
+[2025-07-05 01:39:59.263176] Creating Playwright browser
+[2025-07-05 01:39:59.377844] Creating Playwright browser
+[2025-07-05 01:40:01.180924] Creating Playwright browser
+[2025-07-05 01:40:18.846864] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/1591271976durex-pleasuremax-3-pcs.jpg (priority: 63)
+[2025-07-05 01:40:21.180153] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-play-warming-50ml-rgac-01720894055.png (priority: 63)
+[2025-07-05 01:40:21.519675] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durjoy-60-mg-3-tab-lycm-01720897123.png (priority: 63)
+[2025-07-05 01:40:21.837853] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-strawberry-flavored-condoms-3-condoms-01715151543.png (priority: 63)
+[2025-07-05 01:40:41.494267] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/erectalis-20-mg-2-tab-maww-duoeye4t-duoqxreo-01738435413.png (priority: 63)
+[2025-07-05 01:40:49.701815] Creating Playwright browser
+[2025-07-05 01:40:49.878980] Creating Playwright browser
+[2025-07-05 01:40:50.671762] Creating Playwright browser
+[2025-07-05 01:40:50.838872] Creating Playwright browser
+[2025-07-05 01:40:50.995778] Creating Playwright browser
+[2025-07-05 01:41:12.050233] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/fiesta-ribbed-banana-condoms-3pcs-oynz-01729601498.png (priority: 63)
+[2025-07-05 01:41:12.150801] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/erectalis-5mg-30-tablet-ogxw-01711663026.png (priority: 63)
+[2025-07-05 01:41:12.542354] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/honey-feel-skin-emollient-creamrhzc-01741966364.png (priority: 63)
+[2025-07-05 01:41:12.919470] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/fiesta-dotted-condoms-caramel-flavor-3-pcs-78zp-01729665607.png (priority: 63)
+[2025-07-05 01:41:14.487498] Creating Playwright browser
+[2025-07-05 01:41:15.113748] Creating Playwright browser
+[2025-07-05 01:41:15.226889] Creating Playwright browser
+[2025-07-05 01:41:15.781477] Creating Playwright browser
+[2025-07-05 01:41:29.757447] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/fiesta-dotted-condoms-chocolate-flavor-3-pcs-ujdl-01729665460.png (priority: 63)
+[2025-07-05 01:41:32.709518] Creating Playwright browser
+[2025-07-05 01:41:37.350185] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/1591262401joy-drops-delay-lubricant-gel-50-ml.jpg (priority: 63)
+[2025-07-05 01:41:38.798550] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/joypox-60mg-6tab-fvtt-01682634303.png (priority: 63)
+[2025-07-05 01:41:38.815176] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/1591263775joy-drops-strawberry-lubricant-gel-100-ml.jpg (priority: 63)
+[2025-07-05 01:41:52.853399] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/kly-jelly-gel-42-gmkl1j-01733748107.png (priority: 63)
+[2025-07-05 01:41:57.398379] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/joy-drops-chocolate-lubricant-gel-100-ml-01745836942.png (priority: 63)
+[2025-07-05 01:42:06.767084] Creating Playwright browser
+[2025-07-05 01:42:06.768703] Creating Playwright browser
+[2025-07-05 01:42:07.214592] Creating Playwright browser
+[2025-07-05 01:42:07.721852] Creating Playwright browser
+[2025-07-05 01:42:07.970361] Creating Playwright browser
+[2025-07-05 01:42:30.088050] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/1591263236oview-ovulation-test.jpg (priority: 63)
+[2025-07-05 01:42:32.428121] Creating Playwright browser
+[2025-07-05 01:42:47.032527] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/one-touch-condom-strawberry-3pcs-pc3x-01701378102.png (priority: 63)
+[2025-07-05 01:42:47.265176] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/kly-jelly-gel-82-gmyevo-01733747984.png (priority: 63)
+[2025-07-05 01:42:48.235574] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/onetouch-mixx-3-condom-3pcs-f8py-01668932076.png (priority: 63)
+[2025-07-05 01:42:48.333031] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/one-touch-maxx-dot-condom-3pcs-e8xi-01670332827.png (priority: 63)
+[2025-07-05 01:42:50.382536] Creating Playwright browser
+[2025-07-05 01:42:50.585740] Creating Playwright browser
+[2025-07-05 01:42:51.246893] Creating Playwright browser
+[2025-07-05 01:42:52.155746] Creating Playwright browser
+[2025-07-05 01:42:54.758867] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/silden-50mg-4tab-mear-01686768997.png (priority: 63)
+[2025-07-05 01:42:55.200098] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/countries/MiQwqui1UmAar4kyTXnQEunm236DUzxk8adOYIBf.png (priority: 25)
+[2025-07-05 01:42:55.284218] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/user-register.png (priority: 20)
+[2025-07-05 01:42:55.361283] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/close-icon.png (priority: 20)
+[2025-07-05 01:42:55.451362] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/Filter.png (priority: 20)
+[2025-07-05 01:43:12.489767] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-condom-deluxe-3pcs-fqoz-01656343546.png (priority: 63)
+[2025-07-05 01:43:14.224581] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-condom-super-safe-3pcs-wcmh-01656343442.png (priority: 63)
+[2025-07-05 01:43:15.617307] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-condom-long-love-3pcs-rwh9-01656343315.png (priority: 63)
+[2025-07-05 01:43:34.589116] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-condom-with-banana-3pcs-ylxg-01656342592.png (priority: 63)
+[2025-07-05 01:43:35.012591] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/countries/MiQwqui1UmAar4kyTXnQEunm236DUzxk8adOYIBf.png (priority: 25)
+[2025-07-05 01:43:35.079741] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/user-register.png (priority: 20)
+[2025-07-05 01:43:35.149843] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/close-icon.png (priority: 20)
+[2025-07-05 01:43:35.230271] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/Filter.png (priority: 20)
+[2025-07-05 01:43:46.236534] Creating Playwright browser
+[2025-07-05 01:43:46.419133] Creating Playwright browser
+[2025-07-05 01:43:46.484226] Creating Playwright browser
+[2025-07-05 01:43:46.534316] Creating Playwright browser
+[2025-07-05 01:43:47.173448] Creating Playwright browser
+[2025-07-05 01:44:07.041778] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-lychee-condom-3pcs-m1sf-01656342263.png (priority: 63)
+[2025-07-05 01:44:07.858544] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-condom-with-mint-3pcs-99ld-01656343169.png (priority: 63)
+[2025-07-05 01:44:09.344213] Creating Playwright browser
+[2025-07-05 01:44:09.976423] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-condom-with-choco-3pcs-z90b-01656342441.png (priority: 63)
+[2025-07-05 01:44:10.633995] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-condom-with-strawberry-3pcs-wjnk-01656343070.png (priority: 63)
+[2025-07-05 01:44:11.066847] Creating Playwright browser
+[2025-07-05 01:44:13.477340] Creating Playwright browser
+[2025-07-05 01:44:13.963318] Creating Playwright browser
+[2025-07-05 01:44:27.905854] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-condom-with-orange-3pcs-h9tn-01656342823.png (priority: 63)
+[2025-07-05 01:44:30.399057] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-mango-condom-3pcs-d2f2-01656342018.png (priority: 63)
+[2025-07-05 01:44:30.924616] Creating Playwright browser
+[2025-07-05 01:44:33.180227] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-super-thin-condom-3pcs-hlty-01656343682.png (priority: 63)
+[2025-07-05 01:44:34.218951] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-stallion-condom-3pcs-adu3-01656341909.png (priority: 63)
+[2025-07-05 01:44:52.047312] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/simplex-black-panther-condom-3pcs-ekrb-01656341698.png (priority: 63)
+[2025-07-05 01:45:14.383840] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/surecheck-pregnancy-test-01724611247.png (priority: 63)
+[2025-07-05 01:45:23.431145] Creating Playwright browser
+[2025-07-05 01:45:23.568746] Creating Playwright browser
+[2025-07-05 01:45:24.170282] Creating Playwright browser
+[2025-07-05 01:45:24.174219] Creating Playwright browser
+[2025-07-05 01:45:43.707008] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/trib-gold-30-caps-d58n-01722167619.png (priority: 63)
+[2025-07-05 01:45:45.607957] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/ultra-rabbed-3-condomsylsl-01733300132.png (priority: 63)
+[2025-07-05 01:45:47.537106] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/varde-20mg-4tab-pfgt-01686132744.png (priority: 63)
+[2025-07-05 01:45:47.620523] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/countries/MiQwqui1UmAar4kyTXnQEunm236DUzxk8adOYIBf.png (priority: 25)
+[2025-07-05 01:45:47.697677] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/user-register.png (priority: 20)
+[2025-07-05 01:45:47.775097] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/close-icon.png (priority: 20)
+[2025-07-05 01:45:47.848181] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/Filter.png (priority: 20)
+[2025-07-05 01:45:47.861171] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/vardenorect-20mg-8tab-lbof-01686132536.png (priority: 63)
+[2025-07-05 01:48:19.851409] Creating Playwright browser
+[2025-07-05 01:48:45.158069] Creating Playwright browser
+[2025-07-05 01:48:45.799610] Creating Playwright browser
+[2025-07-05 01:48:45.867250] Creating Playwright browser
+[2025-07-05 01:48:46.116786] Creating Playwright browser
+[2025-07-05 01:48:46.282144] Creating Playwright browser
+[2025-07-05 01:49:06.275595] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/avetrix-gel-100gm-esrq-01680796338.png (priority: 63)
+[2025-07-05 01:49:08.187306] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/control-aloevera-flavored-lubricant-75ml-9bg0-01696265756.png (priority: 63)
+[2025-07-05 01:49:08.409207] Creating Playwright browser
+[2025-07-05 01:49:09.235680] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/cialis-20-mg-2-tab-01727781413.png (priority: 63)
+[2025-07-05 01:49:09.466410] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/cialis-20mg-4tablets-j4vd-01727781380.png (priority: 63)
+[2025-07-05 01:49:09.968069] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/brilliant-100mg-8-f-c-tab-jc4t-01729594546.png (priority: 63)
+[2025-07-05 01:49:10.549531] Creating Playwright browser
+[2025-07-05 01:49:11.072042] Creating Playwright browser
+[2025-07-05 01:49:11.355716] Creating Playwright browser
+[2025-07-05 01:49:12.697522] Creating Playwright browser
+[2025-07-05 01:51:27.430169] Creating Playwright browser
+[2025-07-05 01:51:27.818263] Creating Playwright browser
+[2025-07-05 01:51:27.896416] Creating Playwright browser
+[2025-07-05 01:51:28.224730] Creating Playwright browser
+[2025-07-05 01:51:28.386760] Creating Playwright browser
+[2025-07-05 01:51:49.099124] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/brilliant-100mg-8-f-c-tab-jc4t-01729594546.png (priority: 63)
+[2025-07-05 01:51:50.295563] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/control-aloevera-flavored-lubricant-75ml-9bg0-01696265756.png (priority: 63)
+[2025-07-05 01:51:51.220589] Creating Playwright browser
+[2025-07-05 01:51:51.520284] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/cialis-20-mg-2-tab-01727781413.png (priority: 63)
+[2025-07-05 01:51:52.415432] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/cialis-20mg-4tablets-j4vd-01727781380.png (priority: 63)
+[2025-07-05 01:51:52.818162] Creating Playwright browser
+[2025-07-05 01:51:54.171710] Creating Playwright browser
+[2025-07-05 01:51:54.787476] Creating Playwright browser
+[2025-07-05 01:52:08.320486] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/avetrix-gel-100gm-esrq-01680796338.png (priority: 63)
+[2025-07-05 01:52:10.552018] Creating Playwright browser
+[2025-07-05 01:52:11.208196] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/derilgy-60mg-6tab-a7tfg-01732558877.png (priority: 63)
+[2025-07-05 01:52:11.281226] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/countries/MiQwqui1UmAar4kyTXnQEunm236DUzxk8adOYIBf.png (priority: 25)
+[2025-07-05 01:52:11.355502] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/user-register.png (priority: 20)
+[2025-07-05 01:52:11.432350] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/close-icon.png (priority: 20)
+[2025-07-05 01:52:11.585658] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/Filter.png (priority: 20)
+[2025-07-05 01:52:16.836492] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-chocolate-extra-thin-10-pcs-ftbt-01720894978.png (priority: 63)
+[2025-07-05 01:56:08.423961] Creating Playwright browser
+[2025-07-05 01:56:08.698298] Creating Playwright browser
+[2025-07-05 01:56:08.702060] Creating Playwright browser
+[2025-07-05 01:56:09.060185] Creating Playwright browser
+[2025-07-05 01:56:09.230504] Creating Playwright browser
+[2025-07-05 01:56:32.232890] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/avetrix-gel-100gm-esrq-01680796338.png (priority: 63)
+[2025-07-05 01:56:32.351707] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/control-aloevera-flavored-lubricant-75ml-9bg0-01696265756.png (priority: 63)
+[2025-07-05 01:56:34.361482] Creating Playwright browser
+[2025-07-05 01:56:34.955329] Creating Playwright browser
+[2025-07-05 01:56:35.125368] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/cialis-20mg-4tablets-j4vd-01727781380.png (priority: 63)
+[2025-07-05 01:56:38.126204] Creating Playwright browser
+[2025-07-05 01:56:51.324360] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/brilliant-100mg-8-f-c-tab-jc4t-01729594546.png (priority: 63)
+[2025-07-05 01:56:53.968997] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/cialis-20-mg-2-tab-01727781413.png (priority: 63)
+[2025-07-05 01:56:54.141406] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/control-gel-lubricante-warm-touch-75ml-palg-dupiwzgq-duefrbzd-01726482048.png (priority: 63)
+[2025-07-05 01:56:54.297929] Creating Playwright browser
+[2025-07-05 01:56:54.300312] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/derilgy-60mg-6tab-a7tfg-01732558877.png (priority: 63)
+[2025-07-05 01:56:54.369818] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/countries/MiQwqui1UmAar4kyTXnQEunm236DUzxk8adOYIBf.png (priority: 25)
+[2025-07-05 01:56:54.443904] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/user-register.png (priority: 20)
+[2025-07-05 01:56:54.515788] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/close-icon.png (priority: 20)
+[2025-07-05 01:56:54.596073] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/assets/app/images/Filter.png (priority: 20)
+[2025-07-05 01:56:56.311388] Creating Playwright browser
+[2025-07-05 01:57:00.720214] Attempting to download: https://cdn.chefaa.com/filters:format(webp)/public/uploads/products/durex-air-ultrathin-3pcs-4jfy-01720894754.png (priority: 63)

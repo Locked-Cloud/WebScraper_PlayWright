@@ -1,0 +1,37 @@
+{
+  "global_stats": {
+    "total_products": 64,
+    "total_categories": 1,
+    "processed_categories": 1,
+    "broken_links": 0,
+    "start_time": "2025-07-05T00:22:06.753726",
+    "end_time": "2025-07-05T00:24:56.183303"
+  },
+  "category_summary": [
+    {
+      "category": "sexual-welness",
+      "total_pages": 4,
+      "processed_pages": 4,
+      "failed_pages": 0,
+      "total_products": 64,
+      "broken_links": 0,
+      "processing_time": "168.7s",
+      "success_rate": "100.0%"
+    }
+  ],
+  "failed_categories": [],
+  "total_unique_products": 64,
+  "scraper_config": {
+    "max_retries": 3,
+    "request_delay": [
+      2,
+      4
+    ],
+    "batch_size": 3,
+    "max_workers": 3,
+    "automation_methods": [
+      "playwright",
+      "undetected-chromedriver"
+    ]
+  }
+}
